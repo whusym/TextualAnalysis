@@ -1,0 +1,1229 @@
+Representationalism in Predictive Mind: Where the
+
+Conﬂicts Lie
+
+Jeremy Shi
+
+May 3, 2017
+
+In this paper, I focus on the following question: is the theory of “predictive mind”1
+a representational theory? Some recent attempts2 argue that PM is a representational
+
+theory. That is, according to PM, representations play a signiﬁcant explanatory role in
+
+cognitive processes and representations invoked by PM meet the “job description chal-
+
+lenge”, which is to say that the explananses posited by PM play truly representational
+
+roles. My aim in this paper is to critically examine these attempts and illustrate where the
+
+conﬂicts lie. I show that two main approaches championed by Pawel Gladziejewski and
+
+Andy Clark respectively, fail to argue that PM is a representational theory.
+
+The structure of my paper is as follows. First, I brieﬂy explain what the theory of pre-
+
+dictive mind is. I lay out some key characteristics of PM. Next, I clarify what it means to
+
+claim PM is a representational theory. After the conceptual clariﬁcation, I examine the ﬁrst
+
+approach that argues PM is a representational theory, endorsed by Pawel Gladziejewski
+
+and Wanja Wiese. I show that this approach leaves many questions unanswered and face
+
+a vicious over-proliferation of the number of structural representations. Then, I move my
+
+focus to Andy Clark, who has a different understanding on internal representations and
+
+1It is also called predictive coding theory, predictive processing, etc. Hereafter “PM”.
+2See Gladziejewski (2017); Wiese (2017).
+
+1
+
+take PM to bring “an end to the representation war”.(Clark, 2015, p. 6)3 Although Clark
+
+has a different understanding on what internal representations are and might avoid the
+
+over-proliferation of the number of structural representations, his account of representa-
+
+tionalism in PM does not invoke explananses that play legitimate representational roles.
+
+These explananses in Clark’s account fail to meet the job description challenge.
+
+1 What “Predictive Mind” is
+
+PM suggests that brain generates models that send top-down signals to predict sensory
+
+signals. A generative model is a probabilistic model that encode “the dependencies be-
+tween causes and consequences”4 in the form of probability density. Prediction error (or,
+
+“surprise”) measures how much the predicted top-down signals mismatch the sensory
+
+input signals. According to PM, the mechanism of the brain is essentially the process of
+
+Prediction Error Minimization (PEM). That is, the brain is always minimizing the mis-
+
+match between the predicted and actual input sensory signals. The sensory inputs will
+
+be “explained away” if the mismatch is sufﬁciently low. The generative models are also
+
+hierarchical. In hierarchical generative models (HGMs), the prior at each level–also called
+
+“empirical prior”, is produced by posterior from the level above. Sensory data are gener-
+
+ated at the lowest level. Empirical priors are informed by the sensory data and optimized
+by minimizing the surprise of the sensory signal.5 Another way to understand PEM is
+
+through the “free energy principle” (FEP) developed by Karl Friston. FEP says any self-
+
+organizing system must minimize its free energy within its environment. Borrowed from
+
+statistical physics, free energy is a informational-theoretic measure that limits the predic-
+
+tion error of data in generative models. The brain has a natural tendency to minimize its
+
+3According to Clark, “the representational war” is between anti-representational enactivism and the
+version of representationalism introduced by PM. I will explain what Clark’s argument in Part 4 of my
+paper.
+
+4See (Friston, 2010, p. 129).
+5See Clark (2013); Hohwy (2013) for philosopher-friendly introductions on this process.
+
+2
+
+free energy and resist disorder.6 Friston and some PM theorists like Jakob Hohwy and
+Andy Clark7 also suggest that predictive coding process is the brain’s only function. All
+
+cognitive tasks including perception, action, mental imagery, etc. could be explained by
+
+predictive coding processes. The brain is an inference engine that tries to minimize pre-
+
+diction error in an optimal way. According to Friston and other PM theorists, there are
+
+two basic ways to minimize prediction error. The ﬁrst one is through perceptual infer-
+
+ence. The second is through active inference. Next, I will show how the two processes are
+
+implemented in perception and action respectively.
+
+PM takes perception to be a process of unconscious inference, which could be traced
+
+back to Heinrich von Helmholtz (1867). Brain make predictions and expectations on what
+is perceived and minimize the prediction error by approximately using Bayesian rules.8
+The basic form of Bayes Theorem is P(H|E) = P(H)P(E|H)
+or the probability of the hypothesis. P(E|H)
+is the likelihood ratio. If we suppose P(E), the
+input signal, is ﬁxed, then some hypothesis’ posterior probability P(H|E) is proportional
+to multiplication of the hypothesis’s likelihood P(E|H) and the hypothesis’ prior proba-
+bility P(H). To apply this process into the analysis of perceptual inference in the notions
+
+. P(H) is the prior probability,
+
+P(E)
+
+P(E)
+
+of PM, E is a random variable corresponding to the value of a perceptual sensory input,
+
+Perceptual system assigns prior probabilities to different priors P(H) in the hypothesis
+space and prior likelihoods P(E|H). After receiving E, the hypothesis space is reallocated
+6Friston draws FEP from earlier work in dynamic system theory (for instance, Ashby (1947), Nicolis
+et al. (1977)) and more recent work on predictive coding in neuroscience (for instance, Mumford (1992);
+Rao and Ballard (1999)). For some introductory papers by Friston on this topic, see Friston (2009, 2010,
+2013). Adams et al. (2013) gives detailed explanations on the simplifying assumptions that PM should rely
+on in order to build a correspondence between the concepts of prediction error and free energy.
+
+7See Hohwy (2013); Clark (2015).
+8That is also similar with Bayesian Perceptual Psychology, for instance, see Michael Rescorla (2013).
+However, Rescorla (2017) also makes explicit distinctions between Bayesian Perceptual Psychology and
+PM. The purpose of this article is not to adjudicate between these two approaches. The reason for me
+to introduce this process in Bayesian terms follows Friston (2010), which shows that the explanation of
+perception provided by Bayesian Perceptual Psychology can be illuminated by FEP as well. Friston says
+“the free-energy principle entails the Bayesian brain hypothesis and can be implemented by the many
+schemes considered in this ﬁeld.” (Friston, 2010, p. 130) One caveat is that my following explanation based
+on Bayes Theorem only concerns a two-level hierarchical generative model, with sensory input at one level
+and prediction at the higher level. Many other cases of the application of hierarchical generative models
+are more complicated than the two-level model I elaborate here.
+
+3
+
+in a way such that P(H|E) is maximized according to the Bayes Rule. The higher P(H|E)
+is, the lower the prediction error will be.
+
+Here is a concrete real-world example on how this process of perceptual inference is
+
+processed. Assume a real tiger is present in front of you and you have sensory signals.
+
+That you have the perceptual judgment “it is a real tiger” is due to an inferential process
+
+where the predicted hypothesis “it is a real tiger” minimizes the prediction error so the
+sensory signals are explained away.9 Another example is from Clark. Assume you see
+
+a picture depicting a cat on a mat. Clark says you don’t simply represent “CAT ON
+
+MAT” in your brain. Instead, the brain goes through a Bayesian process: it encodes a
+
+conditional probability density function on probabilities of different states of affairs given
+
+the information, and then make the inference based in a Bayesian-optimal way. (Clark,
+
+2013, p. 166) Because the prior hypothesis space of H is not based on outside sensory
+
+signals, the predictive process is a top-down process.
+
+Revising generative models on-line is one way to reduce prediction error. Another
+
+way to reduce prediction error is to act or engage in the environment so that the incom-
+
+ing sensory signals could change and ﬁt the prediction better. This is called “active in-
+ference”.10 To use the tiger example again. To conﬁrm the hypothesis “it is a real tiger”.
+
+You may take a closer look and change you angle and distance to see whether the object
+
+is really a tiger or not. In this case, new sensory signals, which are generated by actions,
+
+conﬁrm the hypothesis encoded in HGMs and thereby minimize prediction error.
+
+So much for the sketch on PM. In the next part of my paper, I will examine whether
+
+PM is a representational theory.
+
+9This tiger example is from Gladziejewski (2017).
+10As I have just elaborated, there is a distinction between perceptual inference and active inference. But
+this distinction does not mean that they are two totally distinct mechanisms. But Hohwy (2013) also notes
+that the system is moving all the time, so the generative systems are always being updated in action, so
+perceptual inference and active inference are also tightly connected. They often happen at the same time.
+A broader understanding of active inference takes active inference to include both perceptual inference
+and active inference in the traditional sense. This broader understanding could be found in Friston (2013);
+Gladziejewski (2017).
+
+4
+
+2 The Job Description Challenge
+
+In this part of my paper, I elaborate what it means to say PM is a representational theory
+
+by using the concept of “the job description challenge” introduced by William Ramsey in
+
+Ramsey (2007).
+
+If a theory invokes representations and representations meet the job description chal-
+
+lenge, then the theory is a representational theory. According to Ramsey (2007), the job
+
+description of an explanans is its functional roles in a theory. In order to meet the job
+
+description challenge, the theory needs to tell us what it is for the explanans to func-
+
+tion as a representation in a physical system, and whether these representations could
+
+do explanatory work qua representations. One kind of representations that meets the job
+
+description challenge is the symbols invoked by the Classical Computational Theory of
+
+Cognition (CCTC), because these symbols play signiﬁcant explanatory roles. Folk psy-
+
+chology, which is categorized into CCTC and uses beliefs and desires to explain cognitive
+
+processes, relies on the manipulation of these symbols. So these symbols meet the job
+
+description challenge. Given Ramsey’s deﬁnition of the job description challenge, we
+
+can also apply it on PM and examine whether PM posits any inner states or structures
+
+that play signiﬁcant explanatory and representational role within the theory. In the next
+
+section, I show the argument from Gladziejewski (2017) in favor of PM being representa-
+
+tional.
+
+3 Gladziejewski’s Argument and Its Problems
+
+Gladziejewski (2017) provides a detailed argument on why PM is a representational the-
+
+ory. Gladziejewski ﬁrst looks at how theorists studying PM use the word “representa-
+
+tion”. Gladziejewski notices that PM postulates “probabilistic representations” of the
+
+world (i.e. the probability density functions). The top-down predictions encoded in hier-
+
+5
+
+archical generative models are called “representation units”.11 As I have showed before,
+
+the aim of prediction error minimization is to minimize the difference between these pre-
+
+dictions and what the world actually is. That is, if there are any representational vehicles
+
+postulated by PM, they should be the predictions, i.e. neural states encoding probability
+
+density functions.
+
+The next step of Gladziejewski’s argument is to provide a strategy to show these vehi-
+
+cles are legitimately representational. The strategy he considers is “compare-to-prototype”.
+
+That is, take some pre-theoretical instance of representation as the prototype and exam-
+
+ine what functions the prototypical representation plays. To decide whether a particular
+
+notion of representation meets the job description challenge, we check if a particular ex-
+
+planans plays the same functional roles the prototypical representation plays. If so, then
+
+the explanans meets the job description challenge. The prototype Gladziejewski uses is
+
+cartographic maps. Cartographic maps meet the job description challenge because of
+
+their four main functions: structural similarity, action guidance, detachability (capability
+of off-line processing), and representational error detection.12 Gladziejewski argues that
+
+neural states encoding probability density functions in HGMs also satisfy these four func-
+
+tions, so they are legitimate representations meeting the job description challenge just like
+
+cartographic maps do. Next, I reiterate Gladziejewski’s arguments in these four aspects
+
+and show my worries towards them.
+
+3.1 Structural similarity
+
+First, Gladziejewski adopts the concept of second-order resemblance from O’Brien and
+
+Opie (2004) as the standard for structural similarity. Here is the deﬁnition of structural
+
+similarity from O’Brien and Opie,
+
+Suppose SV = (V, RV) is a system comprising a set V of objects, and a set
+RV of relations deﬁned on the members of V. [...] We will say that there is
+
+11See Gladziejewski (2017, p. 565).
+12I will show in detail why maps have these functions in the following discussions on these functions.
+
+6
+
+a second-order resemblance between two systems SV = (V, RV) and SO =
+(O, RO) if, for at least some objects in V and some relations in RV, there is a
+one-to-one mapping from V to O and a one-to-one mapping from RV to RO
+such that when a relation in RV holds of objects in V, the corresponding rela-
+tion in RO holds of the corresponding objects in O. (Quoted from (Gladziejew-
+ski, 2017, p. 566), originally from O’Brien and Opie (2004))
+
+Given this second-order resemblance relation, Gladziejewski claims that the spatial re-
+
+lations between line and ﬁgures in the map are preserved in the represented terrain,
+
+which makes the cartographical maps structurally similar with features of terrain in the
+
+world. So cartographical maps are structural representations of the real-world terrain.
+
+Next, Gladziejewski shows that neural states encoding probability density functions in
+
+HGMs are structurally similar with the causal-probabilistic structure of the world. There
+are different sensory patterns that encode probability density functions in high levels13
+
+of HGM and each pattern corresponds to some possible state of affairs in the world. To
+
+use the example of the tiger again: through the process of prediction error minimization,
+
+the conclusion “there is a tiger” results from perceptual inference. In other words, the
+
+presence of a real tiger causes some neural pattern in the brain. The degree of certainty
+
+for “there is a real tiger” corresponds with a neural state encoding a certain probability
+
+density function. The neural states could also code the causal structure of the world as
+
+well. Upon hearing roaring sounds, smelling some traces from the tiger, etc. without see-
+
+ing the real tiger, the agent could still conclude that “there is a tiger” based on perceptual
+
+inference. That is, the neural state will also indicate that “there is a real tiger”. Thus,
+
+the explananses (i.e. neural states encoding probability density functions) in this case are
+
+structurally similar with the state of affairs in the world. The explananses are structural
+
+representations.
+
+There are several problems with Gladziejewski’s argument on structural similarity
+
+here. The ﬁrst one is about the reason why he uses the second-order resemblance as the
+
+13Here “high levels” mean that these levels are not the lowest level, where the sensory signals are en-
+
+coded.
+
+7
+
+criteria of structural similarity. According to O’Brien and Opie’s deﬁnition of structural
+
+similarity, as long as some objects in one system have a one-to-one mapping relation with
+
+some objects in a different system and the relation over them are preserved when map-
+
+ping one to the other, the two systems are structurally similar. However, this deﬁnition is
+
+too liberal, which means if we use O’Brien and Opie’s deﬁnition of structural similarity
+
+to decide structural representations, some examples of non-representations might also be
+
+categorized as structural representations. For instance, there is a one-to-one correspon-
+
+dence between some parts of a map of Houston and some parts of a world map. But the
+
+map of Houston does not structurally represent the world map. Thus structural represen-
+
+tations cannot be be deﬁned by the criteria of structural similarity developed by O’Brien
+
+and Opie.
+
+O’Brien and Opie’s deﬁnition of structural similarity is too weak to be used in charac-
+
+terizing structural representations. What if we have a stronger notion of structural simi-
+
+larity? For instance, Gallistel and King (2010) takes representational relations to be func-
+
+tioning homomorphisms. That is, representational relations are homomorphic relations
+
+and the variations of one relata in the representational relation are causally inﬂuenced by
+the variations of the other relata.14 To use Gallistel’s deﬁnition of structural representa-
+
+tion here, neural states encoding probability densities functions are homomorphic with
+
+the states of affairs in the world, and these states affairs also causally inﬂuences the cor-
+
+responding neural states in the brain. Gallistel’s deﬁnition of structural representations
+
+is criticized by Alex Morgan (2014). Morgan argues structural representations are not
+
+distinctly mental representations. Functional homomorphisms are ubiquitous. Mindless
+
+systems like plants also have structural representations. Speciﬁcally, circadian clocks in
+
+plants can also meet the job description challenge. Therefore, were Gladziejewski to use
+
+a different notion of structural representation, it still fails to show why representations in
+
+PM are distinctly mental representations, which is against Gladziejewski and other PM
+
+14For a detailed description of representational relations, see (Gallistel and King, 2010, p. 55).
+
+8
+
+theorists’ purpose.15
+
+The purpose of my essay is not to repeat what Morgan has said. Rather, I am going
+
+show that even if we do not consider the objection based on the ubiquity of structural
+
+representations, structural representations in PM will still face a different kind of over-
+
+proliferation problem. That is, the amount of representations invoked by PM is too much
+
+to be realistic. This objection stems from one of Clark’s concerns about representations,
+
+which I will discuss later in 4.1.2.
+
+3.2 Action Guidance
+
+Cartographical maps have the function of guiding actions. A map of the NYC subway
+
+system can guide one’s actions in the city by representing subway stations and routes.
+
+Propositional attitudes like beliefs and desires in classical computational theory of cog-
+
+nition can also guide one’s actions. Gladziejewski argues that according to PM, predic-
+
+tions can also guide one’s actions. Gladziejewski ﬁrst starts with a fresh analysis of “ac-
+
+tion”. He equates “action” with the active inference in predictive processes. As I have
+
+laid out before, PM claims two different kinds of processes to minimize prediction er-
+
+ror—perceptual inference and active inference. Active inference is to act or engage in the
+
+environment so that there is a better ﬁt between the prediction and the environment. For
+
+instance, in order to ﬁgure out that a tomato that is presented in front of you is a real
+
+tomato, you may walk around and look at it from different angles, which, according to
+
+PM, is for the purpose of minimizing prediction error so that you can be sure that it is
+
+a real tomato. To use the terms in PM, it is the neural states encoding inaccurate and
+
+prone-to-error probability density functions that drive your actions to minimize predic-
+
+tion errors.
+
+Here comes my evaluation on whether representations in PM play the role of action
+
+15Gladziejewski says his paper is to engage with current debate on the nature and existence of mental
+representations and PM is taken to be “a throughly representational view of the mind” by Hohwy, Clark,
+among others. See (Gladziejewski, 2017, p. 560).
+
+9
+
+guidance. For PM to be representational, representations invoked by PM need to play a
+
+truly causal role of guiding actions, instead of merely being a causal mediator. We can
+understand what a causal mediator is from an example in Ramsey (2007).16 Consider a
+
+bi-metallic strip in a thermostat that is able to switch on the furnace when the ambient
+
+temperature is low. The strip serves as a reliable causal mediator and responding to cer-
+
+tain environmental conditions does not make it representational and we ordinarily treat
+the strip as having no representational functions.17 Similarly, if the neural states encod-
+
+ing probability density functions merely play the role as a causal mediator, which is less
+
+robust than Gladziejewski has characterized, then these alleged representations do not
+
+play the role of action guidance. This kind of worry can be motivated from an enactivist
+
+account of cognition. I elaborate this worry later in Part 4 of my paper.
+
+3.3 Detachability
+
+Cartographical maps can be decoupled from the environment. I can plan on how to take
+
+subways in NYC by using a NYC subway map even though I am currently in Houston.
+
+To meet the job description challenge, the representational vehicles have to be capable of
+
+planning future events and being run off-line. The main argument for this detachability
+
+is that representational vehicles in PM can encode future counterfactual states of affairs.
+
+In the process of prediction error minimization, hypotheses are endogenously generated
+
+about possible causes of the world, instead of being caused by the environment itself in
+
+a coupling way. Better sensorimotor controls and better coping with the environment
+
+16Ramsey acknowledges that this example is originally from Fred Dretske in Dretske (1988).
+17See (Ramsey, 2007, p. 136). Notice that this is Ramsey’s argument against receptors being truly
+representational. The receptor notion of representation claims that if a neural structure is “regularly
+and reliably activated by some distal condition”(Ramsey, 2007, p. 119). Morgan (2014) argues that “re-
+ceptors just are structural representations”.(Morgan, 2014, p. 236) So the bi-metallic strip in a thermo-
+stat could also be representational in Morgan’s account.
+In response, I do not think Morgan’s account
+counts against my argument here. Rather, Morgan’s account undermines Gladziejewski’s basic assump-
+tion that receptors are different from structural representations. Gladziejewski takes receptors to be non-
+representational.(Gladziejewski, 2017, pp. 573-574) The purpose of this part of my paper is to show
+Gladziejewski’s conclusion is ﬂawed, so Morgan’s account could actually serve my goal.
+
+10
+
+are from counterfactually-rich HGMs, which are about what has possibly happened and
+
+what will happen next. In order to better understand this point, we can look at how Anil
+
+Seth uses the distinction between counterfactually-rich and counterfactually-poor HGMs
+
+in the theory of sensorimotor control. Seth says,
+
+PPSMC requires that counterfactual predictions be explicitly incorporated as
+part of the priors in a HGM. That is, a counterfactually-rich HGM will model
+predicted future states (sensory signals, their external causes, and associated
+precisions) under a broad repertoire of different “controls” (those signals, not
+directly accessible to an agent, that cause movements).(Seth, 2014, p. 104)
+
+According to Gladziejewski and Seth, the reason that neural states encoding probabil-
+
+ity density functions in HGMs can be decoupled from the environment is because they
+
+can encode predicted possible states instead of actual states. Depending on how many
+
+such states these vehicles can encode, there is a distinction between counterfactually-
+
+rich and counterfactually-poor HGMs. However, one objection to this approach is that
+this interpretation does not allow complete decoupling18—what these HGMs do are still
+
+about, and heavily inﬂuenced by, the environment. Moreover, as Ramsey has suggested
+
+in Ramsey (2007), the capability of solving counterfactual tasks does not help illustrate
+
+whether the vehicles that support counterfactual reasoning are truly representational or
+
+not. The reason is that when a system is able to “reason about”some states of affair, we
+have already assumed that the system is capable of representing these states of affairs.19
+
+To apply Ramsey’s reasoning in PM, that HGMs are able to reason about counterfac-
+
+tual states of affairs begs the question because reasoning about counterfactual states of
+
+affairs already assumes the representational vehicles in HGMs represent these states of
+18That is, the coupling index is 0. For more details on how coupling index could be measured, see Grush
+(2003). One might argue that perceptual representations are legitimate representations and they cannot be
+completely decoupled from the world, so complete decoupling is not necessary for some explananses to be
+truly representational. In response, we can think of the examples of hallucination or mental imagery, which
+arguably are also perceptual representations and could be completely decoupled from the environmental
+conditions.
+
+19He says “the problem-solving strategy can be characterized as ‘reasoning about’ something (be it
+counter-factual states of affairs or not), then, of course, the system is using states that represent. This is a bit
+like saying that representations are required in cognitive tasks that are representational in nature.”(Ramsey,
+2007, p. 218)
+
+11
+
+affairs. Thus Gladziejewski cannot use the distinction between counterfactually-rich and
+
+counterfactually-poor HGMs to support PM being representational.
+
+Could the alleged representation in PM be run off-line? Gladziejewski gives a positive
+
+answer but also acknowledges that his answer is still speculative. (See Gladziejewski,
+
+2017, p. 576) His argument goes as follows: PM theories have suggested that predictive
+
+processing is prevalent is every cognitive process. So predictive processing is in mental
+
+imagery and conceptual use as well. Mental imagery and concept use are usually off-line.
+
+Therefore, predictive processing could be off-line as well.
+
+As Gladziejewski has acknowledged, this is largely speculative and many theoretical
+
+details are still unknown. But here I still have a couple worries on off-line processing.
+
+First, Gladziejewski cites Chater and Oaksford (2013) as an instance of how the Bayesian
+
+approach could be possibly applied in a off-line fashion on conceptual use. However,
+
+although it is true that Chater and Oaksford (2013) provides a Bayesian approach, it is
+
+not sure whether this approach is really a predictive process. Predictive processes are
+
+Bayesian in nature, but it does not entail that every application of Bayes Theorem could
+
+be coherent with or used in the theory PM. In fact, Chater and Oaksford (2013) does not
+
+seem to provide any evidence on how sub-personal level Bayesian processing happens.
+
+Secondly, Gladziejewski’s argument is about how off-line mental imagery and concept
+
+use satisfy the constraints of prediction error minimization (or, free energy reduction as
+
+the Free Energy Principle usually suggests). It seems that the optimal way would be to
+
+have no mental imagery or concept use, since not doing them at all will lead to zero error.
+
+In many of such processes, there is just no sensory input E. So what are the probability
+
+density functions going to be like? How could it ﬁnd the Bayesian-optimal answer? PM
+
+theorists who endorse representationalism need to address these questions in the future.
+
+12
+
+3.4 Representation Error Detection or Misrepresentation
+
+Last but not the least, for alleged representational vehicles to be truly representational,
+
+they have to be able to misrepresent, just like a cartographic map could have some errors
+
+here and there and it might cause the map user to get lost, etc. Gladziejewski claims that
+
+there are basically two ways for a representational vehicle to have the capability of mis-
+
+representing: ﬁrst, the vehicle itself might be inaccurate. The structural similarity might
+
+be so weak that it leads to practical failures. The second reason is that the representational
+
+vehicle might be misapplied. Even with a highly accurate map a user is still likely to
+
+make mistakes in practice due to her own negligence. Gladziejewski suggests us to eval-
+
+uate representational errors based on the amount of practical failures. He says, “we can
+
+estimate a map’s inaccuracies by the number of times we bump into things while using
+
+it as a guide for our actions.”(Gladziejewski, 2017, p. 568) Similarly, practical failures or
+
+uncertainty in action could indicate how much a representational vehicle misrepresents.
+
+Similar with my worry in 3.1, we can think of a map that is vastly different from it is
+
+meant to represent. A map of Houston does not represent a world map. Gladziejewski
+
+wants to argue that PM invokes structural representation. So he has to show that there
+
+are always some structural similirity, even if in the situations of misrepresentation.
+
+If
+
+Gladziejewski adopts some notion that’s weaker than homomorphism, which is what he
+
+actually does, then as we have seen in 3.1, the notion is incapable of deciding whether the
+
+vehicles are truly representational or not. On the other hand, if PM theorists ignore the
+
+possibility of misrepresentation, then the alleged representational vehicles fail to meet the
+
+job description challenge.
+
+3.5 Emulator to rescue?
+
+Now as we have seen, neural states encoding probability density functions in HGMs
+
+may not be the representational vehicles that are structurally similar with the states of
+
+13
+
+affairs in the world. So they may not be structural representations. Wanja Wiese (2017)
+
+provides another way to argue for representationalism in the framework. He uses the
+notion of emulator introduced and developed by Rick Grush.20 Emulators are a speciﬁc
+
+type of representations. Emulators are inner dynamical models of body and environ-
+
+ment constructed by the brain. These emulator could be run off-line and “used in parallel
+
+with the body and environment to enhance motor control and perception and to provide
+
+faster feedback.”(Grush, 2003, p. 53) A helpful example of emulator representation is the
+robot Murphy developed by Bartlett W. Mel.21 Murphy is a robot that supports off-line
+
+imagery processing on possible movements of its arm. The emulator images being pro-
+
+duced in Murphy represent possible conﬁgurations of the workspace. And the emulator
+
+images could guide Murphy’s operations. Misrepresentation is also possible, because
+
+Murphy goes through thousands cycles of feed-back loops in its learning processes. In
+
+these processes some images do not represent the workspace in an accurate way. More
+
+importantly, we do get “genuine explanatory purchase on Murphy’s operation by using
+
+representation talk”.(Grush, 2003, p. 84) It is hard to come up with alternative way of
+
+explaining Murphy’s success without using representation talk.
+
+Similarly, Wiese takes the theory of PM to be representational because the alleged
+
+representational vehicles in PM works similar with the emulator theory. He says,
+
+[A] neural system could be an emulator of part of the body, like an arm. If
+this emulator receives an efference copy of a motor signal, it will compute an
+approximation to the sensory feedback that will be received after the motor
+signal has been executed by the arm. Such an emulator can be used online (to
+provide fast mock feedback), but also ofﬂine (e.g., to simulate possible move-
+ments). Wiese (2017)
+
+HGMs in PM are like emulator representations in Murphy. In HGMs, probability den-
+
+sity functions encode possible motor operations in possible states of affairs of the world,
+
+just like efference copies of motor signals for Murphy’s arm. Both emulators in Murphy
+
+20For instance, see Grush (2003, 2004).
+21See Mel (1988).
+
+14
+
+and probability density functions in HGMs function as representational vehicles to pro-
+
+vide prior estimations. The reasons that both emulators and representations in PM are
+
+structural representations is that both of them compare the estimated state variables with
+sensory inputs about these state variables,22 and the estimated state variables are both
+
+models of the world, which means these estimations or predictions are structurally simi-
+
+lar with the world. So emulator theory and PM both invoke structural representations in
+
+a similar way.
+
+Here come my worries on Wiese’s argument. According to Grush, Murphy explicitly
+
+has an “inner world” built in and what is created by every emulator is an image of the
+
+world. Probability density functions may share some similar functions with emulators,
+
+but there need some extra steps to show that these neural states encoding probability den-
+
+sities functions in HGMs are just images of the world. Probability density functions might
+encode some certain features of the world or some decision process.23 In other words,
+
+what is built into a probability density function might not be an “inner world”. My sec-
+
+ond worry is that, just as homomorphisms could be prevalent and come cheap, perhaps
+
+prediction comes cheap too. Arguably, any estimation is a prediction, but there might be
+
+more constraints for some representation to be an emulation. According to Grush, emu-
+
+lation needs to be closely related with the controlled system. Not any kind of estimation
+
+is an emulation. In this aspect, emulation theory is more demanding than PM. So there
+
+is some mismatch between representational vehicles in PM and emulators. Alternatively,
+
+even if there is no mismatch, just as Murphy considers thousands of possible movements
+
+in its emulators, the number of representations in PM might be bloated as well. Thus,
+
+is PM still a representational theory? In other words, if we want to ﬁgure out how to
+
+characterize mental representations in PM, then Murphy–as an instance of emulator rep-
+
+resentations–cannot be borrowed and used as an analogy, because Murphy’s learning
+
+22This is also what Kalman ﬁlters require. The concept of a Kalman ﬁlter is introduced in Kalman et al.
+
+23For a detailed characterization on how predictive coding process is applied in decision making, see
+
+(1960).
+
+Beck et al. (2008)
+
+15
+
+process may not be biologically realistic. Do we process thousands of possible states in
+
+order to learn how to reach some goal as Murphy does, or just follow some causal routine
+as enactivism24 suggests? To better understand the “richness” of the counterfactual states
+
+and ﬁgure out how many representations are truly invoked by PM, I come to the next
+
+part, which is about Clark’s worry on representationalism and PM.
+
+4 Clark on Representationalism and PM
+
+As we have seen, in order to argue for representational vehicles in PM meet the job de-
+
+scription challenge, one important aspect is to show the nature the neural states encoding
+
+probability density functions in HGMs and see how they are structurally similar with the
+
+world. O’Brien and Opie’s notion of second-order resemblance cannot be used as ap-
+
+propriate criterion of structural similarity. Functioning homomorphism and the notion of
+
+emulator might be applied to representational vehicles in PM, but they fail to provide dis-
+
+tinctively mental representations, and face the over-proliferation problem as I will soon
+
+discuss. In this part of my paper, I focus on another important ﬁgure in the discussions
+
+of PM—Andy Clark, and I examine his take on representations in PM. My goal in this
+
+part of my paper is ﬁrst to show that Clark is correct in pointing out if we take represen-
+
+tations in PM to be structural representations, then the over-proliferation of the amount
+
+of structural representations makes PM vulnerable to enactivism. So if PM invokes these
+
+explananses as representations, PM becomes less a plausible account and is incompatible
+
+with enactivism. In 4.1, I show Clark develops his own account of internal representation
+
+in PM to reconcile representationalism in PM and enactivism, and how he differs from
+
+another PM theorist Jakob Hohwy. In 4.2, I show that even if it seems that Clark intro-
+
+duces a new account of representations for PM in order to avoid problems for traditional
+
+account of structural representations applied in PM, Clark account faces two other prob-
+
+24I will soon explain enactivism is and how it takes on this issue in the next part.
+
+16
+
+lems that keep it from meeting the job description challenge. So Clark’s account of inner
+
+representation fail to make PM a representational theory.
+
+4.1 Clark and Its Critics
+
+4.1.1 Clark on Internal Representations
+
+Diverging from directly answering whether representations in PM meet the job descrip-
+
+tion challenge, Clark focuses more on how the representations invoked by PM engage
+
+with the environment, and how these alleged representations relate to the anti-representational
+
+theory of enactivism. Enactivism is the view that aims to “determine the common princi-
+
+ple or lawful linkages between sensory and motor systems that explain how action can be
+
+perceptually-guided in a perceiver-dependent world”.(Varela et al., 1991, p. 173) The en-
+
+activist approach is usually considered to be anti-representational, since there is a direct
+
+coupling between the body and the world (i.e. between the sensory and motor systems).
+
+According to enactivism, to initiate an action, brain does not need to have an internal
+
+model with a rich amount of representations because the body is built together with and
+
+cannot be detached from the world. In Clark (2015), Clark tries to argue that because the
+
+enactivist approach could be explained by PM and PM invokes internal representations,
+
+the enactivist approach should not considered to be anti-representational any more. To
+
+establish his thesis, Clark shows what kind of internal representations are invoked by PM
+
+and why they could put an “end of representation war” and reach peace between repre-
+
+sentationalism and enactivism. Enactivism is not the focus of my paper, so next I move
+
+on to how Clark deﬁnes “internal representations” against the background of PM.
+
+Clark adopts the idea from many other PM theorists that brain is a multilevel predic-
+
+tive processing machine. Certain neural patterns in the brain map onto “the unfolding
+
+patterns of the world like persons, marriages, soccer games, etc.”(Clark, 2015, p. 5) This
+
+understanding coheres with structural representations in Gladziejewski’s representation-
+
+17
+
+alism. But Clark points out that these neural patterns are not exactly internal represen-
+
+tations. Here are what Clark says about internal representations in the machine (i.e. the
+
+brain):
+
+That machine works...because each level is driven to try to ﬁnd a compressed
+way to predict activity at the level below, all the way out to the sensory pe-
+ripheries. These nested compressions, discovered and annealed in the furnace
+of action, are...“internal representations”.(Clark, 2015, p. 5)
+
+From this passage, we can see that Clark deﬁnes internal representations to be differ-
+
+ent neuron patterns in action and predicted by multilevel processing of the brain. The
+
+representational vehicles seem to the same between Clark’s theory and Gladziejewski’s
+
+representationalism. However, even if so, the explananda being represented by these ve-
+
+hicles are different. In Gladziejewski’s discussion, what is being represented is the world.
+
+But Clark wants to reconcile enactivism and representationalism in PM, so he takes that
+
+the body and the world are being represented together. The embodied brain not only rep-
+
+resents the world, but also represents itself. Clark uses this quote from Friston to illustrate
+
+his point,
+
+An agent does not have a model of its world—it is a model. In other words,
+the form, structure, and states of our embodied brains do not contain a model
+of the sensorium—they are that model. (See Clark 2016, p. 14, which is quoted
+from Friston 2013, p. 213)
+
+Thus, when the brain goes through a process of prediction error minimization, it does
+
+not have a huge amount of counterfactual models represented. On the contrary, we are
+
+estimating the uncertainty of “our own representations of the world.”(Clark, 2016, p. 12)
+
+In a sensorimotor task, the brain simply deploys a problem-solving routine under some
+certain circumstance.25 For example, when someone tries to catch a ﬂy-ball, what she
+
+25Here is what Clark says, brain “deploys a problem-solving routine whose ﬁne structure has been se-
+lected (by learning and practice) so as to assume the easy availability of such and such information or the
+easy accomplishment of such and such a useful data-transformation, from (for example) such and such a
+visual location via the performance of such-and-such a gross motor action.” (Clark, 2016, p. 11)
+
+18
+
+relies on is not a rich amount of inner representational models and her brain selects the
+
+best one. Instead, it is a “quick and dirty” perception-action routine that retrieves the
+
+most relevant information and gives rise to her action. Therefore, according to Clark, it is
+
+implausible that a complicated process of inference is based on HGMs in PM.
+
+4.1.2 Sparse vs. Numerous Representations
+
+Although Clark’s account on representation might be appealing to enactivists, his ac-
+
+count contradicts with what Gladziejewski, Seth, and Hohwy’s take on representation.
+Gladziejewski explicitly suggests that representations invoked by PM are skull-bound.26
+
+In Gladziejewski’s tiger example, the best model that minimizes prediction errors is se-
+
+lected by the brain from a large amount of models, each of which encode a possible state
+
+affair of the world. Gladziejewski also agrees with Seth that in action, the subject has
+
+many different counterfactual models of possible actions to choose from. Hohwy (2014)
+
+provides a more systematic objection to Clark’s enactivist representationalism. Hohwy
+
+says in the example of catching a ﬂying ball, the subject needs to have numerous internal
+
+models ﬁrst and then execute the simple and efﬁcient action. Hohwy says,
+
+This process requires heavy, explicit modeling of external causes, including
+complexity reduction and updating of expected precisions. In other words,
+the sampling can be simple and efﬁcient in the way highlighted by Clark only
+because countless aspects of the causal order of the world are already being
+modeled internally. (Hohwy, 2014, p. 279)
+
+Hohwy claims that Clark’s mistake is to to take the sampling of the environment to be
+
+implicit, simple, and sparse, instead of being explicit, complex, and rich. Although the
+
+sensory input might be limited, brain implements predictive coding process to encode
+
+hypothetical scenarios and build counterfactual models. A dexterous baseball player is
+
+26Here is what Gladziejewski says, “ our cognitive system uses the statistics of the input in order to build
+up an internal, skull-bound model of the external world”. (Gladziejewski, 2017, p. 571) On the other hand,
+Clark takes an enactivist and embodied approach, which considers representations to be extended outside
+the brain. Thus if representationalism in PM is consistent with the enactivist and embodied approach, then
+representations invoked by PM are not skull-bound.
+
+19
+
+capable of not only catching a ball in a precise and efﬁcient way, but also ﬁguring out the
+
+cause and predicting the consequences of different actions. These complicated processes
+
+require numerous explicit representations of the world. Without these internal models of
+
+the world, the subject is not able to execute the action well.
+
+So how shall we adjudicate between Clark and Hohwy’s accounts? Here I do not
+
+try to settle their debate once for all, but I just want to point out that Clark’s account
+
+is vastly different from those of other PM theorists and he deﬁnes the phrase “internal
+
+representation” in a way that others rarely use. Moreover, even though Clark is able to
+
+give plausible responses to Hohwy, Clark’s account still suffers from two other problems,
+
+as I will show next.
+
+4.2 Two More Problems for Clark
+
+In this part of my paper, I show that even though Clark’s account might provide a good
+
+analysis on what “internal representations” are, these representations still cannot meet
+
+the job description challenge.
+
+First, Clark’s account mainly deals with implicit and fast tasks like catching a ﬂying
+
+ball. However, these tasks are not all the tasks in human cognitive processes. As Daniel
+
+Kahneman (2011) suggests to us in his dual process theory, some tasks are more explicit,
+
+slow, and rule-based that might belong to a different system (i.e. system 2), instead of the
+
+system 1, where the implicit and fast tasks are mainly processed. Here I do not plan to
+
+defend Kahneman’s dual process theory, which might turn out to be empirically false. But
+
+a successful theory of cognition has to cover both kinds of tasks. Clark’s characterization
+
+on the applications of PM in Clark (2016) is mainly on system 1 tasks. The burden is on
+
+PM theorists (speciﬁcally, Clark) to show how PM could be used in other system 2 tasks
+
+like mental imagery, concept use, etc. The notion of internal representations suggested by
+
+Clark cannot explain these tasks yet.
+
+Secondly, as Ramsey (2007) has repeatedly emphasized, which I have also reiterated
+
+20
+
+in 3.3, a relay circuit or a causal mediator does not play a representational role. In Clark’s
+
+characterization of PM, brain does not need to be equipped with some certain fact that
+
+leads to some certain action. On the contrary, brain just deploys some problem-solving
+
+routine acquired through learning processes. However, my worry here is that, similar
+
+with the non-representational bi-metallic strips in a thermostat, the allege internal rep-
+
+resentations just play the role of a mediator in some causal routine. Therefore, they fail
+
+to meet the job description challenge and thereby cannot be real representations, which
+
+makes Clark’s account of internal representations fail too.
+
+5 Conclusion
+
+In contrast to Clark (2015), Burr and Jones (2016) claims that “the war on representations”
+
+is not over. I fully agree. In this paper, independent to Burr and Jones (2016), I have
+
+provided reasons on why there are still a lot to debate on the issue of representationalism
+
+in PM, and current approaches on representationalism in PM have failed. Gladziejew-
+
+ski does not provide a good argument on why PM is representational, especially on why
+
+representational vehicles invoke by PM are structurally similar with the things being rep-
+
+resented. Even if they are emulator representations as Wiese suggests, then similar with
+
+other versions of representationalism based on homomorphisms as representations, this
+
+version of representationalism suffers from criticisms based on the ubiquity of homomor-
+
+phisms. An alternative way to deﬁne representations in PM is to adopt Clark’s take on
+
+internal representations. However, as I also have pointed out, although Clark’s under-
+
+standing of internal representations avoid some problems of its alternatives, represen-
+
+tations as Clark suggests lose their explanatory roles and therefore cannot meet the job
+
+description challenge. In conclusion, both approaches that endorse PM is a representa-
+
+tional theory come with different theoretical costs, so neither of the approaches succeeds.
+
+21
+
+Bibliography
+
+Adams, R. A., Shipp, S., and Friston, K. J. (2013). Predictions not commands: active
+
+inference in the motor system. Brain Structure and Function, 218(3):611–643.
+
+Ashby, W. R. (1947). Principles of the self-organizing dynamic system. The Journal of
+
+general psychology, 37(2):125–128.
+
+Beck, J. M., Ma, W. J., Kiani, R., Hanks, T., Churchland, A. K., Roitman, J., Shadlen, M. N.,
+
+Latham, P. E., and Pouget, A. (2008). Probabilistic population codes for bayesian deci-
+
+sion making. Neuron, 60(6):1142–1152.
+
+Burr, C. and Jones, M. (2016). The body as laboratory: Prediction-error minimization,
+
+embodiment, and representation. Philosophical Psychology, 29(4):586–600.
+
+Chater, N. and Oaksford, M. (2013). Programs as causal models: Speculations on mental
+
+programs and mental representation. Cognitive Science, 37(6):1171–1191.
+
+Clark, A. (2013). Whatever next? predictive brains, situated agents, and the future of
+
+cognitive science. Behavioral and Brain Sciences, 36(3):181–204.
+
+Clark, A. (2015). Predicting peace: The end of the representation wars. In Open mind.
+
+Open MIND. Frankfurt am Main: MIND Group.
+
+Clark, A. (2016). Busting out: Predictive brains, embodied minds, and the puzzle of the
+
+evidentiary veil. Noûs, 51(2).
+
+Dretske, F. I. (1988). Explaining behavior: Reasons in a world of causes. MIT press.
+
+Friston, K. (2009). The free-energy principle: a rough guide to the brain? Trends in cognitive
+
+sciences, 13(7):293–301.
+
+Friston, K. (2010). The free-energy principle: a uniﬁed brain theory? Nature Reviews
+
+Neuroscience, 11(2):127–138.
+
+Friston, K. (2013). Active inference and free energy. Behavioral and brain sciences,
+
+36(03):212–213.
+
+Gallistel, C. R. and King, A. P. (2010). Memory and the computational brain: Why cognitive
+
+science will transform neuroscience, volume 6. John Wiley & Sons.
+
+22
+
+Gladziejewski, P. (2017). Predictive coding and representationalism. Synthese, pages 1–24.
+
+Grush, R. (2003). In defense of some "cartesian" assumption concerning the brain and its
+
+operation. Biology and Philosophy, 18(1):53–92.
+
+Grush, R. (2004). The emulation theory of representation: Motor control, imagery, and
+
+perception. Behavioral and brain sciences, 27(03):377–396.
+
+Hohwy, J. (2013). The Predictive Mind. Oxford University Press UK.
+
+Hohwy, J. (2014). The selfevidencing brain. Noûs, 48(1).
+
+Kahneman, D. (2011). Thinking, fast and slow. Macmillan.
+
+Kalman, R. E. et al. (1960). A new approach to linear ﬁltering and prediction problems.
+
+Journal of basic Engineering, 82(1):35–45.
+
+Mel, B. W. (1988). MURPHY: A robot that learns by doing. Department of Computer Science,
+
+University of Illinois at Urbana-Champaign.
+
+Morgan, A. (2014). Representations gone mental. Synthese, 191(2):213–244.
+
+Mumford, D. (1992). On the computational architecture of the neocortex. Biological cyber-
+
+netics, 66(3):241–251.
+
+Nicolis, G., Prigogine, I., et al. (1977). Self-organization in nonequilibrium systems, volume
+
+191977. Wiley, New York.
+
+O’Brien, G. and Opie, J. (2004). Notes toward a structuralist theory of mental represen-
+
+tation. In Clapin, H., Staines, P., and Slezak, P., editors, Representation in Mind: New
+
+Approaches to Mental Representation, pages 1–20. Elsevier.
+
+Ramsey, W. M. (2007). Representation Reconsidered. Cambridge University Press.
+
+Rao, R. P. and Ballard, D. H. (1999). Predictive coding in the visual cortex: a functional
+
+interpretation of some extra-classical receptive-ﬁeld effects. Nature neuroscience, 2(1):79–
+
+87.
+
+Rescorla, M. (2013). Oxford Handbook of Philosophy of Perception, chapter Bayesian Percep-
+
+tual Psychology. Oxford University Press.
+
+Rescorla, M. (2017). Review of "surﬁng uncertainty: Prediction, action, and the em-
+
+23
+
+bodied mind". Norte Dame Philosophical Reviews, http://ndpr.nd.edu/news/surﬁng-
+
+uncertainty-prediction-action-and-the-embodied-mind/.
+
+Seth, A. K. (2014). A predictive processing theory of sensorimotor contingencies: Ex-
+
+plaining the puzzle of perceptual presence and its absence in synesthesia. Cognitive
+
+neuroscience, 5(2):97–118.
+
+Varela, F., Thompson, E., and Rosch, E. (1991). The Embodied Mind: Cognitive Science and
+
+Human Experience. MIT Press.
+
+von Helmholtz, H. (1867). Treatise on physiological optics vol. iii.
+
+Wiese, W. (2017). What are the contents of representations in predictive processing? Phe-
+
+nomenology and the Cognitive Sciences, pages 1–22.
+
+24
+
+

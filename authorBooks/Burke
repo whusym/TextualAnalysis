@@ -1,0 +1,5 @@
+Burke
+
+read_html("http://pm.nlx.com/xtf/view?docId=britphil/britphil.49.xml;chunk.id=div.britphil.v47.1;toc.depth=1;toc.id=div.britphil.v47.1;brand=default")
+read_html("http://pm.nlx.com/xtf/view?docId=britphil/britphil.49.xml;chunk.id=div.britphil.v47.4;toc.depth=1;toc.id=;brand=default")
+read_html("http://pm.nlx.com/xtf/view?docId=britphil/britphil.49.xml;chunk.id=div.britphil.v47.5;toc.depth=1;toc.id=div.britphil.v47.5;brand=default")

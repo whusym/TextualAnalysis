@@ -1,0 +1,2084 @@
+The Prince
+
+Niccolò Machiavelli
+
+Copyright © Jonathan Bennett 2017. All rights reserved
+[Brackets] enclose editorial explanations. Small ·dots· enclose material that has been added, but can be read as
+though it were part of the original text. Occasional •bullets, and also indenting of passages that are not quotations,
+are meant as aids to grasping the structure of a sentence or a thought. Every four-point ellipsis . . . . indicates the
+omission of a brief passage that seems to present more difﬁculty than it is worth. Longer omissions are reported
+between brackets in normal-sized type.—The division into twenty-six chapters is Machiavelli’s; the division into
+two Parts is not.—Previous translations that have been continuously consulted are:
+
+—translated and edited by Robert Martin Adams (Norton Critical Edition, 1977). Don’t confuse this Adams (b.
+1915) with the now better-known Robert Merrihew Adams (b. 1937). [borrowed from on pages 35 and 45]
+—translated by Russell Price and edited by Quentin Skinner (Cambridge U. P., 1988) [borrowed from on
+
+page 40]
+
+—edited and translated by Peter Constantine (Modern Library, 2007),
+—translated by Tim Parks (Penguin Classics, 2009). [borrowed from on page 53]
+
+Of these, the most swingingly readable version is Parks’s, though it embellishes the original more than any other
+version, including the present one. Each of the other three has helpful explanatory notes. Parks has a ’glossary of
+proper names’. The present version received many small helps from these predecessors in addition to the four
+acknowledged above.
+First launched: August 2010
+
+The Prince
+
+Contents
+
+Niccolò Machiavelli
+
+Dedication: To his Magniﬁcence Lorenzo Di Piero De’ Medici
+
+Part I: Kinds of principality; how to get and retain them
+Chapter 1: Different kinds of principalities, and how to acquire them
+
+Chapter 2: Hereditary principalities
+
+Chapter 3: Mixed principalities
+
+Chapter 4: Why Darius’s kingdom, conquered by Alexander, didn’t rebel against his successors after his death
+
+Chapter 5: How to govern cities or principalities that lived under their own laws before they were annexed
+
+Chapter 6: New principalities that are acquired by one’s own arms and virtù
+
+Chapter 7: New principalities acquired by the arms and the fortuna of others
+
+Chapter 8: Principality obtained through wickedness
+
+Chapter 9: Civil principality
+
+Chapter 10: How to measure the strength of a principality
+
+Chapter 11: Ecclesiastical principalities
+
+Part II: Other aspects of political power
+Chapter 12: Different kinds of armies; Mercenaries
+
+Chapter 13: Auxiliaries, mixed armies, citizen armies
+
+Chapter 14: A prince’s military duties
+
+1
+
+2
+
+2
+
+2
+
+3
+
+8
+
+10
+
+11
+
+13
+
+17
+
+20
+
+22
+
+24
+
+26
+
+26
+
+29
+
+31
+
+The Prince
+
+Niccolò Machiavelli
+
+Chapter 15: Things for which men, especially princes, are praised or blamed
+
+Chapter 16: The free spender and the tightwad
+
+Chapter 17: Cruelty and mercy. Is it better to be loved than feared?
+
+Chapter 18: How princes should keep their word
+
+Chapter 19: How to avoid attracting contempt and hatred
+
+Chapter 20: Are fortresses, and other princely devices, advantageous or hurtful?
+
+Chapter 21: What a prince should do to acquire prestige
+
+Chapter 22: The ministers of princes
+
+Chapter 23: How to avoid ﬂatterers
+
+Chapter 24: Why the princes of Italy have lost their states
+
+Chapter 25: The role of fortuna in human affairs and how to withstand it
+
+Chapter 26: A plea to liberate Italy from the barbarians
+
+33
+
+34
+
+35
+
+37
+
+39
+
+44
+
+46
+
+48
+
+49
+
+51
+
+52
+
+54
+
+The Prince
+
+Niccolò Machiavelli
+
+Glossary
+
+Africa: At the time Machiavelli is writing about on page 18,
+‘Africa’ named a coastal strip of north Africa, including some
+of what are now Tunisia, Algeria, and Libya. The site of city
+Carthage is now the site of a suburb of Tunis.
+element: On page 5 Machiavelli speaks of ‘the more weak’
+and ‘the more strong’, with no noun. He could be talking
+about (i) weaker and stronger individuals or factions within
+the acquired state, or (ii) weaker and stronger substates or
+provinces of which the newly acquired state is made up. The
+rest of that chapter hooks into (ii); but page 5 also makes
+Machiavellian sense when taken in the manner of (i); perhaps
+he meant to be talking about both at once.
+fortuna: This word occurs nearly 60 times in the work.
+Most occurrences of it could be translated by ‘luck’, but
+for Machiavelli its meaning is clearly broader than that—
+something more like ‘circumstances beyond one’s control’.
+The interplay between this and virtù is a dominant theme
+in The Prince.
+[For a superb discussion of this theme, see J. G. A.
+Pocock’s The Machiavellian Moment (Princeton University Press, 2003),
+chapter 6.] So fortuna is left untranslated except where
+Machiavelli writes of someone’s privata fortuna, meaning
+his status or condition as an ordinary citizen (rather than
+someone with rank and power). The ﬁve occurrences of this
+are all translated by ‘ordinary citizen’. Italian lets us choose
+between ‘it’ and ‘she’ for fortuna, but nothing in this work
+invites us to personalize it except the striking last paragraph
+on page 53.
+free: When Machiavelli speaks of people as living free (liberi)
+or in freedom (in libertà) he usually means that they are
+self-governing rather than being subjects of a prince. (An
+exception is liberissime on page 23.) On page 10 there is
+
+a good example of why it won’t do to translate libertà by
+‘self-government’ throughout or to translate it sometimes by
+‘self-government’ and sometimes by ‘freedom’.
+gentlemen: This seems to be the best we can do with
+Machiavelli’s gentili uomini, but his meaning seems to be
+something more like ‘men who have some kind of rank or
+title’. Thus, ‘making them his gentlemen’ [page 14] means
+‘giving each of them some kind of rank or title or standing at
+his own court or within his own government’.
+prince: In this work principe isn’t a title and doesn’t desig-
+nate a rank; it stands for any ruler of a state, whether a king
+or queen or duke or count etc. The English word ‘prince’ also
+had that broad meaning once (Queen Elizabeth I referred to
+herself as a ‘prince’), and it seems the best word to use here.
+temporal: It means ‘having to do with this world as distinct
+from the heavenly world of the after-life’. The underlying
+thought is that this world is in time (‘temporal’) whereas the
+after-life is eternal in some way that puts it outside time.
+virtù: This word occurs 60 times in this work, and its
+cognate adjective virtuoso occurs another dozen times. A
+dominant theme throughout is the difference between virtù
+and fortuna as factors in a man’s life. Usually virtù means
+something like ‘ability’, but it can mean ‘strength’ or even
+‘virtue’. It is left untranslated so that you can make your
+own decisions about what Machiavelli means by it on a given
+occasion.
+you: Machiavelli sometimes switches suddenly from talking
+about •what a prince must do to talking about •what you
+must do, as though he were addressing the prince. Any such
+switch (the ﬁrst is on page 3) is Machiavelli’s own and not
+an artifact of this version.
+
+The Prince
+
+Niccolò Machiavelli
+
+Dedication
+
+Dedication
+
+To his Magniﬁcence Lorenzo Di Piero De’ Medici
+
+Those who try to win the favour of a prince usually come to
+him with things that they regard as most precious, or that
+they see him take most pleasure in; so we often we often
+see princes being presented with horses, arms, cloth of gold,
+precious stones, and similar ornaments that are worthy of
+their greatness.
+
+Wanting to present myself to your Magniﬁcence with some
+testimony of my devotion towards you, the possession of
+mine that I love best and value most is my knowledge of
+the actions of great men—knowledge that I have acquired
+from long experience in contemporary affairs and from a
+continual study of antiquity. Having reﬂected on it long and
+hard, I now send it, digested into a little volume, to your
+Magniﬁcence.
+
+Without being sure that this work is worthy of being pre-
+sented to you, I am trusting that you will be kind enough to
+ﬁnd it acceptable, seeing that I can’t give you anything better
+than the opportunity to get a grasp, quickly, of everything
+that it has taken me so many difﬁcult and dangerous years
+to learn. Many writers decorate their work—choke their
+work—with smoothly sweeping sentences, pompous words,
+and other ‘attractions’ that are irrelevant to the matter in
+hand; but I haven’t done any of that, because I have wanted
+this work of mine to be given only such respect as it can get
+from the importance of its topic and the truth of what it says
+about it.
+
+Some people think it would be presumptuous for a man
+whose status is low to •discuss the concerns of princes and
+•give them rules for how to behave; but I don’t agree. A
+landscape painter will place himself •on the plain in order
+
+to get a good view of the mountains, and •on a mountain in
+order to get a good view of the plain. So also, to understand
+the nature of the people one needs to be a prince, and to
+understand the nature of princes one needs to be of the
+people.
+
+Take then this little gift in the spirit in which I send
+it. If you read and think about it, you’ll see how greatly I
+want you to achieve that greatness which fortune and your
+other attributes promise. And if your Magniﬁcence, from the
+mountain-top of your greatness will sometimes look down
+at this plain, you will see how little I deserve the wretched
+ill-fortune that continually pursues me.
+[1. Machiavelli worked for 18 years for the Florentine Republic; when the
+Republic collapsed in 1512 under attack by the Medici and their allies, he
+
+•lost his elevated government position,
+•was accused of conspiracy, questioned under torture, then re-
+leased, and
+•retired to his farm, where he wrote The Prince and other works.
+
+After six or seven years of this, Machiavelli
+
+•did administrative work for some Florentine merchants,
+•was consulted by the Medici government on a policy question,
+•returned to Florence where he was celebrated as a writer,
+•was engaged by Cardinal de’ Medici to write a history of Florence,
+•hoped to re-enter high levels of government when in 1527
+the Medici were again ejected and the Florentine republic re-
+established, but
+•died in June 1527.
+
+The continuing ‘wretched ill-fortune’ of which he writes consisted in
+poverty and the lack of worthy employment during his years on the farm.
+The Prince was not published until after his death.
+2. The recipient of the Dedication was not the famous ‘Lorenzo the
+Magniﬁcent’ (patron of Leonardo, Michelangelo etc.), but a grandson of
+his.]
+
+1
+
+The Prince
+
+Niccolò Machiavelli
+
+2: Hereditary principalities
+
+Part I
+
+Kinds of principality
+
+How to get and retain them
+
+Chapter 1
+
+Different kinds of principalities, and how to acquire them
+
+All states, all powers that rule over men, are either republics
+or principalities. (I am saying all this about the past as well
+as the present.)
+
+Principalities are either hereditary, governed by one
+
+family over very many years, or they are new.
+
+A new principality may be entirely new, as Milan was to
+Francesco Sforza, or it may be (so to speak) a limb grafted
+onto the hereditary state of the prince who has acquired it,
+as when the kingdom of Naples was acquired by—·grafted
+
+onto·—the kingdom of Spain.
+
+A dominion acquired in this way (1) may have been
+accustomed—·before the acquisition·—to live under a prince,
+or may have lived in freedom [see Glossary]; and the acquisition
+(2) may have happened through the arms of the ·acquiring·
+prince himself, or through the arms of others; and the
+acquisition (3) may have been a matter of fortuna [see Glossary]
+or a product of virtù.
+
+Chapter 2
+
+Hereditary principalities
+
+I shan’t discuss republics, because I have written about
+them at length elsewhere. My sole topic here will be princi-
+palities. My presentation will be organised in terms of the
+classiﬁcation given in chapter 1, and will discuss how such
+principalities are to be ruled and preserved.
+
+I say at the outset that it is easier to hold a hereditary
+state that has long been accustomed to their princely family
+than it is to hold a new state. A hereditary prince doesn’t
+have to work very hard to retain his state; all he needs is
+to •abide by the customs of his ancestors and •get himself
+
+2
+
+The Prince
+
+Niccolò Machiavelli
+
+3: Mixed principalities
+
+through minor emergencies; unless of course some extraor-
+dinary and extreme force deprives him of his state, and even
+then he will get it back if the usurper runs into trouble.
+
+We have an example in Italy: the Duke of Ferrara couldn’t
+have survived the attacks of the Venetians in 1484 or those
+of Pope Julius in 1510 if he hadn’t been long established in
+his dominions. [This is about two Dukes of Ferrara—Ercole in 1484
+and Alfonso in 1510. Perhaps Machiavelli’s singular ‘Duke’ was meant
+to make the point that within a single hereditary principality it doesn’t
+matter much who is the prince at a given time.] Because a hereditary
+prince has less cause to offend ·his people·, and less need
+
+to do so, he will be more loved—his subjects will naturally
+think well of him unless extraordinary vices cause them to
+hate him.
+the next sentence: E nella antiquità e continuazione del
+dominio sono spente le memorie e le cagioni delle innovazioni:
+perché sempre una mutazione lascia lo addentellato per la
+ediﬁcazione dell’altra.
+literally meaning: And in the antiquity and duration of his
+rule the memories and motives that make for change are lost,
+for one change always prepares the way for the next.
+what Machiavelli is getting at: ??
+
+Chapter 3
+
+Mixed principalities
+
+Where difﬁculties arise is in a new principality. Let us take
+ﬁrst the case of a principality that isn’t entirely new, but is (so
+to speak) a limb of a larger state which taken as a whole could
+be called ‘composite’—·a combination of old and new, an old
+state to which another state has been newly annexed·. The
+changes through which new principalities come into being
+always have a built-in source of difﬁculty: men who change
+their rulers willingly are hoping to better themselves, which
+is what gets them to take up arms against their present ruler;
+and they are deceived in this, because they ·always· discover
+in due course that they have gone from bad to worse. Why?
+Because a new prince ordinarily—naturally—has to burden
+those who have submitted to him with ·the requirement that
+
+they provide quarters for· his troops and with countless other
+hardships. So you [see Glossary] have as enemies [inimici] all
+those whom you have harmed in seizing that principality;
+and you can’t keep the friends [amici] who put you there
+because •you can’t satisfy them in the way they expected,
+and •you can’t take strong measures against them because
+you still need them. For however strong your armed forces
+are, in entering a new province you will need the goodwill
+of the people of the place. That is why Louis XII of France
+quickly took Milan, and quickly lost it. To turn him out the
+ﬁrst time it only needed Lodovico’s own forces [i.e. the forces
+of the duke who had been conquered by Louis], because those who
+had opened Milan’s gates to King Louis, ﬁnding themselves
+
+3
+
+The Prince
+
+Niccolò Machiavelli
+
+3: Mixed principalities
+
+deceived in their hopes of beneﬁting from this, wouldn’t
+endure the harsh treatment they were getting from their new
+ruler.
+
+When a rebellious province is retaken, it won’t be so easily
+lost a second time, because the prince will have learned from
+the rebellion not to hesitate to punish the delinquents, to
+sort out the suspects, and to ﬁx any weaknesses in his
+position. Thus, whereas Duke Lodovico could take Milan
+back from France the ﬁrst time merely by sword-rattling
+along its borders, to get it back a second time he needed
+everyone’s help in defeating the French armies and driving
+them out of Italy. The reasons why ·this was so difﬁcult· are
+the ones I have just presented.
+
+Still, Milan was taken back from France not just once
+but twice. I have discussed the general reasons for the ﬁrst
+·French failure·; it remains to name those for the second.
+What resources did the French king have? How might
+someone in his situation have held on to his conquest better
+than he did?
+
+Distinguish two cases: when a state with a long history
+acquires a new dominion, either (a) the new dominion has
+the same language as the other and is geographically right
+next to it, or (b) it doesn’t and isn’t.
+In any case of kind
+(a) it is easier to hold onto the new dominion, especially if
+its people haven’t been accustomed to live in freedom; to
+hold it securely one needs only to destroy the family of the
+prince who was its ruler; because then, with conditions
+·in the new dominion· the same as before, and with pretty
+much the same customs established in the two territories,
+the people will live quietly together. We have seen this in
+Brittany, Burgundy, Gascony, and Normandy, which have
+stayed united to France for such a long time. And though
+there may be some difference in language, the customs are
+alike and the peoples can easily get on with one another.
+
+Someone who acquires such a state, if he wants to hold
+onto it, must take care of two (and only two) things: •that
+the family of this state’s former prince is extinguished; and
+•that neither the laws or their taxes are altered. With those
+things taken care of, it won’t take long for the newly acquired
+dominion to become entirely one body with the long-standing
+principality that has annexed it.
+
+But when (b) a country acquires a state that differs from
+it in language, customs, or laws, there are difﬁculties, and
+holding on to the new acquisition requires good fortuna and
+great energy. One of the best things that the acquiring ruler
+can do is to go and live in the newly acquired state, which
+would make his position more secure and durable. That’s
+what it did for the Turk in •Greece: despite all his other
+measures for holding •that state, if he hadn’t settled there
+he couldn’t have kept it. ·There are at least three reasons
+for this·. (1) If the ruler is on the spot, he can see troubles
+as they arise and can quickly deal with them; whereas if
+he isn’t there he won’t hear of them until they have grown
+beyond the point where he can ﬁx them. (2) ·If you are living
+there·, the country won’t be pillaged by your ofﬁcials, ·and if
+that does start to happen· your subjects will be glad to have
+immediate access to their on-the-spot prince. (3) Subjects
+who are well-disposed towards the prince will have more
+reason to love him; and those who aren’t will have more
+reason to fear him. Anyone wanting to attack that state from
+the outside had better go about it carefully: as long as the
+prince is living there it will be very hard to take it from him.
+An even better procedure is to send colonies to one or two
+places within the newly acquired state, to serve as shackles
+(so to speak). It’s a choice between doing this and keeping
+there a large garrison of cavalry and infantry. Establishing
+and maintaining a colony costs little or nothing; and the
+only •people who are offended by are the minority whose
+
+4
+
+The Prince
+
+Niccolò Machiavelli
+
+3: Mixed principalities
+
+lands and houses are given to the new inhabitants, ·the
+colonists·; and •they can’t do ·the prince· any harm, because
+they are poor and scattered. And the remainder are easily
+kept quiet—•they haven’t been injured, and anyway •they
+don’t want to put a foot wrong for fear of being treated in the
+same way as the dispossessed minority. . . . ·This illustrates
+a general point, namely that· men should be treated in such
+a way that there’s no fear of their seeking revenge—either
+•well-treated ·so that they won’t want revenge· or •utterly
+crushed so that they won’t be capable of it.
+
+It costs much more to have an armed garrison than to
+have colonies; maintaining it can take the entire income
+of the ·newly acquired· state, so that the acquisition of it
+turns into a loss. Also, shifting the garrison from place to
+place ·with a constant need to take over people’s homes as
+quarters for the soldiers· makes everyone angry; everyone
+suffers hardship and becomes hostile; and these are enemies
+who can still do harm because although they have been
+beaten they are still on their own ground. However you look
+at it, military occupation is as useless as colonisation is
+useful.
+
+A prince who takes power in a country differing in laws
+and language ·from his own people· ought to •make himself
+the head and defender of the weaker of his new subjects,
+and to •weaken the more powerful amongst them; and also
+•to see to it that no foreigner as powerful as himself ever
+gets a footing there. If that does happen, it will be because
+the foreigner was invited in by subjects who are driven by
+ambition or by fear. We see this •in the entry of the Romans
+into Greece, invited in by the Aetolians, and •in every other
+country that they entered at the invitation of the inhabitants.
+What usually happens when a powerful foreigner enters a
+country is that the weaker •elements [see Glossary] side with
+him, motivated by their hatred for the ruling power, so that
+
+he doesn’t have to work at getting them on his side. He has
+only to take care that they don’t get too much power and
+authority; and then with his own forces and their goodwill, he
+can easily keep the more powerful •elements under control
+and thus remain entirely master in the country. A ruler
+who doesn’t properly manage this business will soon lose his
+acquisition, and for as long as he does have it it will give him
+endless difﬁculties and troubles.
+
+The Romans went about things in just this way in the
+
+countries they annexed. They
+
+—sent colonies,
+—maintained friendly relations with the less powerful
+
+•elements, without increasing their power,
+
+—kept down the more powerful •elements, and
+—didn’t allow any strong foreign powers to gain authority.
+One example of this will be enough, I think—Greece.
+The Romans kept on friendly terms with the Achaeans
+and Aetolians, and humbled the kingdom of Macedonia,
+driving Antiochus out; but the services of the Achaeans and
+Aetolians didn’t win them any permission to increase their
+power; Philip wasn’t able to talk his way into friendship with
+the Romans until they had ﬁrst humbled him; and the power
+of Antiochus didn’t make them consent to his having any
+political status in that province [Macedonia]. What the Romans
+did in these cases should be done by any prudent prince who
+is concerned not only with present troubles but also with
+future ones. He must work really hard to prepare for those:
+they are easy to cure if you look ahead to them, whereas if
+you do nothing until they are almost upon you it will be too
+late for medicine—the malady will have become incurable.
+[Machiavelli compares this with what the physicians say
+about tuberculosis:
+in its early stages, hard to spot but
+easy to cure; later on, visible to everyone but incurable. He
+continues:] That’s how it is in affairs of state.
+If future
+
+5
+
+The Prince
+
+Niccolò Machiavelli
+
+3: Mixed principalities
+
+troubles are foreseen (which they can be, but only by very
+intelligent people), they can be quickly ﬁxed; but if they
+aren’t foreseen and are therefore allowed to grow to a size
+where everyone can see them, they are beyond cure.
+
+Accordingly the Romans, foreseeing troubles well ahead
+of time, dealt with them ahead of time. They wouldn’t let
+them come to the boil, even if preventing them from doing
+so involved going to war; for they knew that ·in situations
+like that· war can’t be avoided, and putting it off will work
+to the advantage of others. So they chose to ﬁght Philip and
+Antiochus in Greece so as not to have to ﬁght them ·later on·
+in Italy; they might have avoided both, but they chose not to
+·try that way out·. And they weren’t believers in the saying
+that we constantly hear from the ‘wise’ men of our own day—
+
+Let us enjoy the beneﬁts of the passing of time
+
+—because they were more interested in the beneﬁts of their
+own virtù and foresight! ·They knew that it’s no good relying
+for help on the sheer passage of time·, because time herds
+everything along, bringing good things as well as bad, bad
+things as well as good.
+
+Let us turn now to France and inquire whether it did any
+of the things I have been talking about. I will speak of Louis
+XII and not ·his predecessor on the French throne· Charles
+VIII, because Louis had possessions in Italy for longer, so it
+is easier to see his conduct. What we ﬁnd is that he did the
+opposite of what is needed if one is to retain a ·conquered·
+state differing from one’s own in language and laws.
+
+King Louis was brought into Italy by the ambition of the
+Venetians, who planned to get control of half the state of
+Lombardy ·while letting him have the other half·.
+I don’t
+blame the king for his part in the affair; he wanted a foothold
+in Italy, and had no friends there—indeed he found all doors
+barred against him because of King Charles’s behaviour—so
+he had to take what friendships he could get. He might
+
+have carried things off very successfully if it weren’t for the
+mistakes he made in his other arrangements. By taking
+Lombardy, the king quickly regained the reputation lost by
+Charles. Genoa yielded, the Florentines turned friendly, and
+he was approached with professions of friendship by
+
+•the Marquis of Mantua,
+•the Duke of Ferrara,
+•the Bentivogli (of Bologna),
+•the Lady of Forlì [the popular label for Caterina Sforza, the
+Countess Forlì],
+•the lords of Faenza, Pesaro, Rimini, Camerino,
+Piombino, and
+•the citizens of Lucca, Pisa, and Siena.
+
+At this point the Venetians began to see the folly of what they
+had done: in order to acquire a couple of towns in Lombardy
+they had made the ·French· king master of two thirds of
+Italy.
+
+Consider how easily the king could have maintained his
+position in Italy if he had observed the rules that I have set
+down, and become the protector and defender of his new
+friends. Though numerous, they were weak and timid, some
+afraid of the Venetians, others of the Church, and thus all
+compelled to stick by him; and with their help he could
+easily have protected himself against the remaining great
+powers. But no sooner was he established in Milan than
+he did exactly the wrong thing, helping Pope Alexander to
+occupy Romagna [a part of Italy that included three of the city-states
+listed above]. It didn’t occur to him that by doing this he was
+weakening himself, driving away his friends and those who
+had thrown themselves into his arms, while strengthening
+the Church by adding vast political power to the spiritual
+power that already gives it so much authority. Having made
+this ﬁrst mistake, he was forced deal with its consequences.
+To limit Pope Alexander’s ambition to become master of
+
+6
+
+The Prince
+
+Niccolò Machiavelli
+
+3: Mixed principalities
+
+Tuscany, he had to come to Italy in person. [Tuscany, a large
+territory that includes Florence, is Romagna’s southern neighbour.] And
+as if it weren’t enough to have •made the Church powerful
+and •deprived himself of his friends, the king •went after
+the kingdom of Naples and divided it with King Ferdinand
+II of Spain. Having been the chief power in Italy, he thus
+brought in a partner who could attract to himself everyone
+in the kingdom who was ambitious on his own account or
+dissatisﬁed with Louis. He could have left the King of Naples
+on his throne as a caretaker on his behalf, instead of which
+he threw him out, replacing him by someone—·the King of
+Spain·—who was capable of driving out Louis himself.
+
+It’s a very natural and common thing to want to acquire
+·territory·; men do it whenever they can, and they are praised
+for this or ·anyway· not blamed. But when they can’t pull it
+off and yet push ahead regardless, that is folly and they are
+to blame for it. If Louis could have ·successfully· attacked
+Naples with his own forces, he ought to have done that; if he
+couldn’t, then he oughtn’t to have divided it ·between himself
+and another king·. Dividing Lombardy between himself and
+the Venetians was excusable because it gave him a foothold
+in Italy; but he had no need to divide Naples, so he was at
+fault for doing so.
+
+So Louis (1) eliminated the minor powers, (2) increased
+the strength of one of Italy’s greater powers, (3) brought in a
+foreign power, (4) didn’t settle in the country, and (5) didn’t
+establish colonies. But these errors wouldn’t have done him
+any harm during his lifetime if he hadn’t also (6) deprived the
+Venetians of their power. If he hadn’t (2) strengthened the
+Church or (3) brought Spain into Italy, it would have been
+reasonable, even necessary, to humble the Venetians; but
+given that he did take those other two steps, he ought never
+to have consented to pulling down the Venetians. As long as
+the Venetians remained ·militarily· strong, they would have
+
+protected Lombardy from attacks from the outside: they
+would never have permitted such an attack unless it led to
+their getting more territory; and no state would want to take
+·any part of· Lombardy from France in order to give it to
+the Venetians! Nor would any state have had the courage to
+tackle both Venice and France together.
+
+If anyone objects:
+
+King Louis let the Pope have Romagna and let Spain
+have ·half of· the kingdom of Naples to avoid war,
+
+I repeat what I have already said, namely that you should
+never let yourself be driven off-course by your desire to avoid
+a war, because ·in such a case· you won’t avoid it but will
+merely postpone it to your disadvantage. . . .
+
+So King Louis lost Lombardy through not doing any of
+the things that others have done when taking possession
+of countries and wanting to keep them. There’s nothing
+weird or mysterious about this; it is all very reasonable and
+natural. During a conversation about these matters that
+I had in Nantes with the Cardinal of Rouen, he remarked
+that the Italians don’t understand war, and I replied that the
+French don’t understand politics, because if they did they
+wouldn’t have allowed the Church to become so powerful.
+[Machiavelli explains that this happened when Romagna was under the
+control of ‘Duke Valentino, as Cesare Borgia, son to Pope Alexander,
+was commonly called’; this being an upshot of the aggrandizing of the
+Church that Machiavelli complains of. His remark to the cardinal was a
+warning, a prediction.] And so it turned out: France caused the
+Church and Spain to be great powers in Italy, which then
+led to France’s downfall. We can get from this a general rule
+which never—or hardly ever—fails, namely: someone who
+•causes someone else to become powerful brings about his
+own ruin; because it takes skill or power to do •that, and
+these attributes will be seen as threatening by the one who
+has beneﬁted from them.
+
+7
+
+The Prince
+
+Niccolò Machiavelli
+
+4: Why no rebellion?
+
+Chapter 4:
+
+Why Darius’s kingdom, conquered by Alexander the Great,
+
+didn’t rebel against his successors after his death
+
+Alexander the Great conquered Asia in a few years, and
+died before getting a proper hold on it. Given how hard
+it is to hold onto newly acquired States, one might have
+thought that the whole territory would rise in revolt. And
+yet—seemingly strangely—his successors managed to hold
+on, with no troubles except ones arising from their own
+ambition and mutual jealousies.
+
+Why? Here is my explanation. All the principalities of
+which we have any record have been governed in one of two
+ways:
+
+(1) by a prince with the help of others whom he appoints
+to serve as his ministers in governing the kingdom,
+·and whom he can dismiss at will·;
+
+(2) by a prince together with his barons whose rank isn’t
+given to them by him but is possessed by hereditary
+right.
+
+These barons have lands of their own, and subjects who
+recognize them as their lords and are naturally devoted
+to them. Where a prince rules through his servants or
+ministers, he has more authority, because throughout the
+land he’s the only person the people recognize as above them.
+If they obey anyone else, they’re obeying him merely as a
+minister or ofﬁcial, and they have no special love for him.
+
+These two forms of government are illustrated in our
+(1) The
+own day by the Turk and the King of France.
+whole Turkish empire is governed by one lord, with everyone
+else ·who is involved in government· being his servants.
+Dividing his kingdom into Districts, he sends them different
+
+administrators whom he shifts and changes at his pleasure.
+(2) The King of France is surrounded by a host of nobles with
+long-established hereditary titles, each acknowledged and
+loved by his own subjects, and each with a high rank that
+the King can deprive him of only at his peril.
+
+If you think about the difference between these two States,
+you’ll see that (1a) it would be hard to conquer that of the
+Turk but that once conquered (1b) it would be easy to hold
+onto.
+(a) Hard to conquer because an invader can’t be
+brought in by a native nobility, or expect his enterprise
+to be helped by the defection of those whom the sovereign
+has around him. I have explained why: it’s because all those
+people are the prince’s servants and have obligations to him,
+so they aren’t easily corrupted; and if they are corrupted
+they can’t be much help because (as I explained earlier) they
+can’t carry the people with them. So whoever attacks the
+Turk must reckon on ﬁnding a united people, and will have
+to rely on his own strength rather than on divisions on the
+other side. (b) But if •an attacker overcomes the prince of
+a country governed as Turkey is, defeating him in battle so
+that his armies are beyond repair, •he has nothing more to
+worry about—except for the prince’s family, and once that is
+exterminated there is no-one else to fear.
+
+(2) The opposite is the case in kingdoms governed in the
+French way. (a) You can always make inroads into such a
+kingdom with the help of a baron or two, because there are
+always some who are disaffected and want change. I have
+already explained how such people can •open the way for you
+
+8
+
+The Prince
+
+Niccolò Machiavelli
+
+4: Why no rebellion?
+
+to invade their country and •help you to be victorious. (b) But
+the effort to hold onto this territory will involve you in endless
+difﬁculties—problems concerning those who helped you and
+those whom you have overthrown. It won’t be enough merely
+to destroy the prince’s family, because there will be barons
+who are ready to lead new revolts; you’ll never be able to
+•satisfy them or •destroy them, so you’ll lose the state as
+soon as they see a chance to take it from you.
+
+Now, if you look at the kind of government that Darius
+had, you’ll see that it resembled that of the Turk; so that
+Alexander had ﬁrst to defeat him utterly and take control of
+his territory ·with no inside help·; but after he had done that,
+and Darius had died, Alexander was securely in control of
+the country, for the reasons I have given. If his successors
+had stayed united they could have enjoyed it undisturbed,
+because the only disturbances in that kingdom came from
+their own inﬁghting. But kingdoms organized in the French
+way can’t be held ·by their conquerors· as easily as that.
+Hence the repeated uprisings against the Romans in Spain,
+
+Gaul, and Greece, because each of these lands was divided
+up into many •smaller principalities. For while the memory
+of •these lasted—·i.e. as long as people felt loyalty to their
+local baron·—the Romans couldn’t feel safe. But after a
+long period of Roman rule had erased those memories—·and
+thus extinguished those local loyalties·—the Roman grip
+became secure. It was maintained even when the Romans
+were warring against one another: in that inﬁghting each
+·Roman governor· could rely on the support of the territory
+he governed and had inﬂuence in, because once the families
+of their former princes had been wiped out, the natives had
+no authority they could recognize except that of the Romans.
+If you bear all this in mind, you won’t be surprised by
+how easily Alexander got a ﬁrm grip on Asia, or by how hard
+it was for many others—Pyrrhus, for example—to retain the
+territories they had conquered. This came not from these
+conquerors’ differing in virtù but from a difference in the
+characters of the states they had conquered.
+
+9
+
+The Prince
+
+Niccolò Machiavelli
+
+5: How to govern. . .
+
+How to govern cities or principalities that lived under their own laws
+
+before they were annexed
+
+Chapter 5
+
+When a conqueror acquires a state that has been accustomed
+to living under its own laws and in freedom [see Glossary], he
+has three options if he wants to hold onto his conquest. He
+can
+
+(1) destroy it, ·smash everything·,
+(2) go and live there himself,
+(3) let them continue with their present system of laws,
+while paying taxes to him, and setting up there a small
+governing group who will keep the state friendly to
+you [see Glossary].
+
+Such a governing group, having been set up by the
+·conquering· prince, will know that it can’t survive without
+his friendly support; so it will do its best to maintain his
+authority. Someone who wants to retain his hold on a city
+accustomed to freedom will do best to get its citizens to
+co-operate with him.
+
+Consider the examples of the Spartans and the Romans.
+The Spartans held Athens and Thebes, setting up a small
+local government in each place; yet they lost them. The
+Romans reduced Capua, Carthage, and Numantia to rubble
+and ·therefore· didn’t lose them. They tried holding onto
+Greece in pretty much the way the Spartans did, allowing
+it to be free and to retain its old laws; and this failed. So
+they had to destroy a good many ·Greek· cities in order to
+
+hold onto the territory as a whole. The fact is that there is
+no safe way to retain such a territory except by destroying
+it. Someone who becomes master of a city accustomed to
+freedom and doesn’t destroy it can expect to be destroyed by
+it, because in rebellions the rebels will always rally to the
+cry of Freedom! and to the old way of doing things—which
+are never forgotten. . . . And whatever steps are taken to
+prevent this, unless the people have fallen into disunity
+among themselves, or have been scattered, they will always
+remember the label ‘free’ and their old ways, and will rally to
+them at every chance they get, as Pisa did after a century of
+bondage to the Florentines.
+
+But when a city or country has been used to living under
+a prince, and his family has been exterminated, the people
+won’t be able to choose from among themselves a new prince
+to replace the old one; and having acquired the habit of
+obedience. they won’t know how to live in freedom. So they’ll
+be slow to take up arms, making it easier for an ·invading·
+prince to win them over to his side. Republics, on the other
+hand, have more vitality, more hatred, and a stronger desire
+for revenge, which will never allow them to forget their former
+freedom; so that the safest way is to destroy them or to go
+and live among them.
+
+10
+
+The Prince
+
+Niccolò Machiavelli
+
+6: Earned new principalities
+
+New principalities that are acquired by one’s own arms and virtù
+
+Chapter 6
+
+I’m going to be dealing with entirely new principalities, and
+in this discussion I’ll take the best examples of prince and of
+state. There’s nothing surprising about this. People nearly
+always walk in paths beaten by others, acting in imitation of
+their deeds, but its never possible for them to keep entirely
+to the beaten path or achieve the level of virtù of the models
+you are imitating. A wise man will follow in the footsteps of
+great men, imitating ones who have been supreme; so that if
+his virtù doesn’t reach the level of theirs it will at least have
+a touch of it. Compare an archer aiming at a distant target:
+knowing the limits of his bow’s virtù he aims high, hoping
+that the arrow as it descends will hit the target. So. . .
+
+I say, therefore, that in an entirely new principality,
+headed by someone who has only recently become a prince,
+how much difﬁculty the conqueror has in keeping his new
+acquired state depends on how much virtù he has—the more
+virtù the less difﬁculty. Now, he can’t have risen from being
+a private citizen to being a prince without ·help from· either
+virtù or fortuna, and clearly either of those will somewhat
+lessen of the difﬁculties ·in holding onto the new state·,
+though undue reliance on fortuna doesn’t work well in the
+long run. Another aid such a new prince will have is that,
+having no other state ·where he can live as a prince·, he is
+compelled to take up residence, personally, in his new state.
+Now let us turn to ·the proper subject of this chapter,
+namely· those who became princes by their own virtù and
+not through fortuna. Moses, Cyrus, Romulus, Theseus, and
+their like are the most excellent examples. In the case of
+Moses, there isn’t much to discuss because he simply did
+
+what God told him to do, though we should admire him for
+being found worthy to have conversations with God. But
+when we look into Cyrus and others who have acquired or
+founded kingdoms, we’ll ﬁnd that they are all admirable;
+and their actions and governing structures won’t be found
+inferior to what Moses did under his great Instructor. And
+in examining their lives and their achievements we don’t
+ﬁnd them owing anything to fortuna beyond ·their initial·
+opportunity, which brought them the material to shape as
+they wanted. Without that opportunity their virtù of mind
+would have come to nothing, and without that virtù the
+opportunity wouldn’t have led to anything.
+
+For the Israelites to be willing to follow Moses, he had
+to •ﬁnd them in Egypt, enslaved and oppressed by the
+Egyptians. For Romulus to become king of Rome and founder
+of that state, he had to •be abandoned at birth, which led
+to his leaving Alba. For Cyrus ·to achieve what he did·, he
+had to •ﬁnd the Persians discontented with the government
+of the Medes, and the Medes soft and effeminate through
+their long peace. Theseus couldn’t have shown his virtù if
+he hadn’t •found the Athenians ·defeated and· scattered. So
+these •opportunities enabled those men to prosper, and their
+great virtù enabled each to seize the opportunity to lead his
+country to being noble and extremely prosperous.
+
+Men like these who become princes through the exercise
+of their own virtù ﬁnd it hard to •achieve that status but easy
+to •keep it. One of the sources of difﬁculty in acquiring the
+status of prince is their having to introduce new rules and
+methods to establish their government and keep it secure.
+
+11
+
+The Prince
+
+Niccolò Machiavelli
+
+6: Earned new principalities
+
+We must bear in mind that nothing is
+
+—more difﬁcult to set up,
+—more likely to fail, and
+—more dangerous to conduct,
+
+than a new system of government; because the bringer of
+the new system will make enemies of everyone who did well
+under the old system, while those who may do well under
+the new system still won’t support it warmly. Why not?
+Partly because of fear of the opponents, who have the laws
+on their side, and partly because men are hard to convince
+of anything, and don’t really believe in new things until they
+have had a long experience of them. So those who are hostile
+will attack whenever they have the chance, while the others
+will defend so half-heartedly that they don’t get the prince or
+themselves out of danger.
+
+For a thorough exploration of these matters, therefore, we
+have to ask concerning these innovators—·these setters-up
+of new states·—to carry through their projects
+
+•must they depend on others, or can they rely on
+themselves? that is,
+•must they ask others for help or can they use force?
+If they need help they are sure to fail, and won’t achieve
+anything; but when they can rely on themselves and use
+force they aren’t running much risk. That’s why armed
+prophets always conquered, and the unarmed ones have
+been destroyed. And along with all this there is the fact
+that people don’t stay steady: it’s easy to persuade them of
+something, but hard to keep them persuaded. When they
+stop believing ·in their new prince·, force must be used to
+make them believe; and provision for doing that must be
+made beforehand.
+
+If Moses, Cyrus, Theseus, and Romulus hadn’t had
+
+soldiers at their command they couldn’t have enforced their
+constitutions for long. (See what happened in our own day
+to Father Girolamo Savonarola: he was overthrown, along
+with his new scheme of things, as soon as the mass of
+the people stopped believing in him, and he had no way of
+keeping steadfast those who had believed or of converting
+those who hadn’t.
+[Savonarola, a ﬁerce puritan and mesmerizing
+preacher, dominated Florence for four of the years when Machiavelli was
+an ofﬁcial there.]) So the likes of these (·i.e. of Moses, Cyrus,
+etc.·) ﬁnd it hard to reach their goal because there is great
+danger on the way up, though their virtù will enable them to
+overcome it; but when this has been done and the danger
+is passed, and those who resented their success have been
+exterminated, they will begin to be respected, and they will
+continue afterwards powerful, secure, honoured, and happy.
+A ﬁfth example is not on the same level as the other
+four, but his case is somewhat like theirs, and I bring it
+in as stand-in for all the other cases that are like it.
+I
+am, referring to Hiero the Syracusan [3rd century BCE]. From
+being an ordinary citizen, this man rose to be the prince of
+Syracuse; and he (·like the others·) owed nothing to fortuna
+except the opportunity:
+in a time of military threat, the
+Syracusans chose him to head their troops. afterwards they
+rewarded him by making him their prince. He was of such
+great virtù even as an ordinary citizen that someone wrote of
+him that ‘He had everything he needed to be a king except a
+kingdom’. He abolished the old army and established a new
+one, gave up old alliances and made new ones; and that gave
+him the foundation—his own soldiers, his own allies—on
+which he could build anything he wanted to build. Thus, it
+was very hard for him to acquire something, ·his position of
+power·, that he had little trouble holding onto.
+
+12
+
+The Prince
+
+Niccolò Machiavelli
+
+7: Unearned new principalities
+
+New principalities acquired by the arms and the fortuna of others
+
+Chapter 7
+
+Those who are raised purely by fortuna from being private
+citizens to being princes don’t have much trouble rising,
+just ﬂoating up; but they ﬁnd it hard to stay up there. I’m
+referring (a) to men to whom a state is given, as happened
+to many in Greece, in the cities of Ionia and the Hellespont,
+where Darius enthroned princes who were to hold the cities
+in the interests of his security and his glory; and (b) to
+men who bought their states, rising to the rank of emperor
+through the corruption of the soldiers. [In 193 CE the Praetorian
+Guard in Rome murdered the emperor and then put the city and its
+empire up for auction; a man named Julianus made the winning bid,
+was designated as emperor, and lived and ruled for 66 days.] Such
+people—·in category (a) especially·—depend entirely on two
+extremely unreliable and unstable things, namely the sup-
+port and the fortuna of whoever raised them to the status
+of prince. Such a man won’t have either the knowledge or
+the power to keep his position. Knowledge: unless he has an
+extremely high level of ability and virtù he can’t be expected
+to know how to command, having always lived as an ordinary
+citizen. Power: he won’t have an army that he can rely on to
+be friendly and loyal.
+
+States that come into existence suddenly, like everything
+in nature that is born and grows fast, can’t have roots and
+connections that will save them from being blown down by
+the ﬁrst storm; unless (I repeat) the suddenly-elevated prince
+has so much virtù that he knows he must immediately set
+to work to make sure of his hold on what fortuna has given
+him, laying the foundations that another leader might have
+laid •before becoming a prince rather than •afterwards.
+
+I’ll illustrate these two ways of becoming a prince—though
+virtù and through fortuna—by considering two examples
+from our own times, namely Francesco Sforza and Cesare
+Borgia. By choosing the appropriate means, and with great
+virtù, Sforza went from being a commoner to being Duke of
+Milan, and he hadn’t much trouble holding onto the power
+that it had cost him so much effort to get in the ﬁrst place.
+In contrast with this, Cesare Borgia—commonly called Duke
+Valentino—acquired his state through the fortuna of his
+father ·Pope Alexander VI·, and when his father died he
+lost it, despite having taken every measure that a wise and
+virtuoso man should take to give himself ﬁrm foundations
+in the state that the army and fortuna of someone else had
+given him.
+
+Someone who didn’t lay his foundations before achieving
+power may be able with great virtù to lay them afterwards,
+but this will involve trouble for the architect and danger to
+the building. If we look carefully at everything Borgia did,
+we’ll see that he did lay solid foundations for his future power;
+and I think it is worthwhile to discuss his efforts because I
+don’t know any better advice to give a new prince than ‘Follow
+the example of Cesare Borgia’. His arrangements failed; but
+that wasn’t because of any fault in him but because of the
+extraordinary and extreme hostility of fortuna.
+
+Alexander VI, wanting to achieve greatness for the duke,
+his son, faced many obstacles, present and future. Firstly,
+he didn’t see how he could make him master of any state
+that wasn’t a part of the Church’s territory; and he knew
+that if he stole land from the Church, the Duke of Milan and
+
+13
+
+The Prince
+
+Niccolò Machiavelli
+
+7: Unearned new principalities
+
+the Venetians wouldn’t consent to that. . . . Furthermore, he
+saw that the ·mercenary· armies in Italy, especially those
+that might have helped him, were in the hands of rulers who
+had reason to fear his growing power, namely the Orsini and
+Colonnesi clans and their allies. What he had to do, then,
+was to upset this state of affairs and create turmoil in the
+states of these rivals, so as to get away with seizing control of
+a part of them. This was easy for him to do, because he found
+that the Venetians, for reasons of their own, were planning
+to bring the French back into Italy; and the Pope, far from
+opposing this, made it easier to bring about by dissolving
+the former marriage of King Louis. So the French king came
+into Italy with Venetian help and the Pope’s consent. No
+sooner was the king in possession of Milan than he supplied
+the Pope with soldiers for the attempt on Romagna, which
+yielded to him because he had the support of the king. ·The
+Pope’s son, Cesare Borgia = Duke Valentino, was commander
+of the Pope’s army.· The duke, having acquired Romagna
+and beaten the Colonna family, wanted to hold onto that
+and to advance further, but he was hindered by two things:
+•his suspicion that the army wasn’t loyal to him, and •his
+worries about the attitude of France. He was afraid that
+the forces of the Orsini family, which he was using, would
+stop obeying his orders and not only block him from winning
+more territory but even take for themselves what he had
+already won; and his fears about the French king were pretty
+much the same. His doubts about the Orsini ·soldiers· were
+conﬁrmed when, after Faenza had been taken, he saw how
+half-heartedly they went into the attack on Bologna. And he
+learned which way King Louis was leaning when he (Cesare
+Borgia) went on from taking the Duchy of Urbino to attack
+Tuscany, and the king made him turn back. This led him
+to a decision never again to rely on the arms and fortuna of
+anyone else.
+
+[Reminder:
+
+He began by weakening the Orsini and Colonna factions
+in Rome by winning over to his side all their supporters who
+were gentlemen [see Glossary], making them his gentlemen,
+paying them well, and giving them military commands or
+governmental positions, each according to his rank. Within
+a few months they were all cut off from their former factions
+and entirely attached to the duke.
+this is Duke
+Valentino = Cesare Borgia.] In this way he scattered the Colonna
+family’s adherents; and then he waited for an opportunity
+to crush the Orsini. This came to him soon and he used it
+well. The Orsini had at last come to realize that the growing
+power of the duke and the Church would be their ruin; so
+they came together for a ·planning· meeting at Magione near
+Perugia. This gave rise to a rebellion at Urbino and riots in
+Romagna, with endless dangers to the duke, all of which
+he overcame with the help of the French. Having restored
+•his credibility, and not wanting to rely on the French or any
+other outside forces to preserve •it, he resorted to trickery.
+He was so good at concealing his intentions that he got
+the Orsini to be willing to be reconciled with him.
+(His
+intermediary in this process was Paolo Orsini, whom the
+duke reassured with all sorts of courtesy—money, clothes,
+and horses.) The Orsini were so naive that they went ·at
+his invitation· to Sinigalia, where they were in his power. [In
+a separate essay that wasn’t published until after his death, Machiavelli
+describes in details how Cesare Borgia went about murdering the top
+people of the Orsini faction, including Paolo Orsini; and Oliverotto de
+Fermo, of whom we shall hear more on page 18.] By exterminating
+the ·Orsini· leaders and making allies of their supporters,
+the duke laid solid foundations for his power, having all of
+Romagna and the Duchy of Urbino in his grip; and he won
+the support of the people, who were beginning to appreciate
+the prosperity ·brought to them by his rule·.
+
+14
+
+The Prince
+
+Niccolò Machiavelli
+
+7: Unearned new principalities
+
+I want to spend a bit longer on this last matter, because it
+is important and deserves to be imitated by others. When the
+duke occupied Romagna he found it under the rule of weak
+masters, who •preferred robbing their subjects to governing
+them, and •gave them more cause for dissension than for
+unity, with the result that the territory was full of robbery,
+feuds, and every kind of lawlessness. Wanting to restore
+peace and obedience to authority, the duke thought he had
+to give it some good government, and to that end he gave
+complete control to Ramiro d’Orco, a man who always acted
+decisively and ruthlessly. It didn’t take long for this man to
+restore peace and unity, getting a considerable reputation for
+himself. But the duke came to think that extreme severity
+was going to make him hated by the populace; so he set up a
+single court of judgment for the whole of Romagna—a court
+with a most excellent presiding judge, to which all the cities
+could send their advocates. He knew that d’Orco’s severity
+had caused some hatred against himself, and wanted to
+clear that out from the minds of the people and win them
+over to himself; so he set out to show that if there had been
+any cruelty its source was not •him but rather •the brutal
+nature of his minister. At the ﬁrst opportunity he had d’Orco
+arrested and cut in two [= ‘beheaded’], leaving the pieces on the
+piazza at Cesena with the block and a bloody knife beside
+it. This brutal spectacle gave the people a jolt, but it also
+reassured them.
+
+But now back to my main theme. Borgia had acquired an
+army of his own, and had pretty much destroyed the armies
+in his vicinity that could make trouble for him; so that now
+his power was consolidated and he was fairly well secured
+against immediate dangers; and he saw that if he wanted to
+conquer more territories he needed the support of the King of
+France, which he knew he couldn’t get because the king had
+belatedly come to realize that it was a mistake to ally himself
+
+with Cesare Borgia. So he began to seek new alliances, and
+to hang back from helping France against the Spaniards in
+the French attempt to conquer the kingdom of Naples. His
+intention was to make himself secure against the French,
+and he would quickly have brought this off if ·his father·
+Pope Alexander hadn’t died ·a few months later·.
+
+That’s how Borgia handled his immediate problems. For
+the longer term, he had to prepare for the possibility that
+Alexander VI might be succeeded by a pope who wasn’t
+friendly to him and might try to take back from him the
+territory that Alexander had given him. For this purpose he
+made four plans:
+
+(1) To exterminate the families of the lords he had dis-
+possessed, so as to deprive the Pope of that excuse for
+interfering.
+
+(2) To win the gentlemen [see Glossary] of Rome over to his
+side, so as to have their help in hemming the pope in.
+(3) To increase his control over the college ·of cardinals,
+
+which would elect the next pope·.
+
+(4) To acquire as much territory as he could while Pope
+Alexander was alive, so as to be well placed to resist
+with his own resources any attack ·by the new pope·.
+By the time Alexander died, the duke had managed three out
+of four: he had (1) killed as many of the dispossessed lords
+as he could lay hands on, which was most of them, (2) won
+over the Roman gentlemen, and (3) brought onto his side a
+large majority of the college of cardinals. As for (4) further
+conquests, he planned to become master of Tuscany, thus:
+He already held Perugia and Piombino, and Pisa
+was under his protection. He no longer had to
+fear anything from the French direction (because
+the Spaniards had robbed France of the kingdom of
+Naples, so that both sides had to buy his support);
+so he felt free to pounce down on Pisa. When he
+
+15
+
+The Prince
+
+Niccolò Machiavelli
+
+7: Unearned new principalities
+
+had done that, Lucca and Siena would immediately
+capitulate, partly out of fear and partly out of hostility
+to the Florentines; and the Florentines couldn’t have
+done anything about it.
+
+If Cesare Borgia had achieved all this (and he was almost
+there when Alexander died), he would have acquired so much
+power and prestige that he could have stood on his own feet,
+relying solely on his own power and virtù and not on the
+fortuna and military power of anyone else.
+
+But Alexander did die, ·a mere· ﬁve years after his son
+had ﬁrst drawn the sword. The duke’s condition at that time
+was this:
+
+•He had ﬁrm control of Romagna;
+•His other planned conquests were up in the air.
+•He was caught between two powerful hostile armies.
+•He was mortally ill.
+
+[This illness, which he survived, was the same one that had just killed
+his father, Pope Alexander.] But the duke •had so much ferocity
+and virtù, and •understood so well that men must be either
+won over or killed, and •had (in the short time available)
+laid such ﬁrm foundations, that he would have surmounted
+every obstacle if the French and Spanish armies hadn’t been
+bearing down on him, or if he had been in good health. It’s
+clear that the foundations he had laid were indeed solid, for
+Romagna waited for him for more than a month. And he
+was safe in Rome, although half-dead; the Baglioni, Vitelli,
+and Orsini factions came to Rome, but couldn’t stir things
+up against him.
+If he had been in good health when his
+father died, he would have managed everything easily: ·for
+example·, he couldn’t have dictated who would be the next
+pope, but he could have blocked the election of any candidate
+he didn’t want. On the day that Julius II was elected as pope,
+the duke himself told me that he had thought of all the
+problems that might occur when his father died, and had
+
+16
+
+solutions for them all, except that it hadn’t occurred to him
+that when his father died he himself would be at death’s
+door.
+
+Having set out all the duke’s actions, I can’t ﬁnd anything
+to criticise; indeed, he seems to me (I repeat) to be a model
+for anyone who comes to power through fortuna and ·with
+help from· the arms of others. ·A ‘model’, although he failed?
+Yes·, because his great courage and high ambitions wouldn’t
+have allowed him to act differently from how he did; and
+he failed only because his father’s life was so short and he
+himself was so ill. So a new ruler who thinks he has to
+
+•secure himself in his new principality,
+•win friends,
+•overcome obstacles either by force or fraud,
+•make himself loved and feared by the people,
+•be followed and respected by his soldiers,
+•exterminate potential enemies,
+•replace old laws by new ones,
+•be severe and gracious, magnanimous and liberal,
+•break up a disloyal army and create a new one,
+•maintain friendship with kings and princes, so that
+they must openly help him or be very careful about
+harming him,
+
+can’t ﬁnd a livelier example than the actions of this man. The
+only thing he can be criticised for is the election of Julius
+II as pope—a bad choice! As I have already said, the duke
+wasn’t in a position to decide who would be the new pope;
+but he could block the election of anyone he didn’t want, and
+he ought never to have allowed the election of any cardinal
+(1) whom he had injured or (2) who as pope would have
+reason to fear him. Men harm one another either from fear
+or from hatred. (1) The cardinals he had harmed included,
+among others,
+
+The Prince
+
+Niccolò Machiavelli
+
+8: Principality obtained through wickedness
+
+the cardinal of San Pietro ad Vincula,
+the cardinal of San Giorgio, and
+Ascanio Sforza.
+
+[The ﬁrst cardinal on that list is the one who became Pope Julius II.]
+(2) And each of the other cardinals had reason to fear him
+if he (the cardinal) became pope, except for the Cardinal of
+
+Rouen and the Spanish cardinals. [Machiavelli gives reasons
+for these exceptions. Then:] So the duke’s ﬁrst choice for
+pope should have been one of the Spanish cardinals, failing
+which the cardinal of Rouen, and not the cardinal of San
+Pietro ad Vincula. Anyone who thinks that new beneﬁts
+will cause great men to forget old injuries is wrong. Borgia
+miscalculated in this papal election, and that error was fatal.
+
+Chapter 8
+
+Principality obtained through wickedness
+
+Of the ways in which a private person can rise to be a prince
+there are two that aren’t entirely matters of fortuna or virtù.
+I can’t pass them by in silence, though I shan’t deal with
+them as fully as I would in a book about republics. They are
+these:
+
+•Someone raises himself to being a prince through
+some really wicked conduct. ·This will be the topic of
+the present chapter·.
+•A citizen becomes the prince of his country by the
+·I’ll discuss this in
+support of his fellow-citizens.
+chapter 9·.
+
+My treatment of the ﬁrst of these will consist in presenting
+two examples—one ancient, the other modern—without go-
+ing into the merits of such a procedure. These two examples,
+I think, will provide enough instruction for anyone who has
+to go that way.
+
+(1) Agathocles was a Sicilian who, starting not merely as
+an ordinary citizen but as a very low-class one (his father
+was a potter), became King of Syracuse. He was a scoundrel
+from the day he was born; but he accompanied his infamies
+with so much virtù of mind and body that, having joined the
+Syracusan army, he rose through its ranks to be commander
+in chief. Being established in that position, he decided to
+become ·Syracuse’s· prince and to use force—with no help
+from anyone else—to hold onto the power that had been
+given to him ·and to upgrade it to the power of a prince·. He
+discussed his plans with Hamilcar, a Carthaginian whose
+army was at that time ﬁghting in Sicily. [This was not the famous
+Hamilcar, father of Hannibal, who led the ﬁrst Carthaginian war against
+Rome a few decades later.] Then one morning he assembled the
+people and the senate of Syracuse, as if he had public affairs
+to discuss with them; at an agreed signal his soldiers killed
+all the senators and the richest of the people; and with these
+
+17
+
+The Prince
+
+Niccolò Machiavelli
+
+8: Principality obtained through wickedness
+
+out of the way, Agathocles seized and held the principality of
+that city without any trouble from the people. And although
+the Carthaginians routed him twice and eventually laid siege
+to Syracuse, he was able not only to defend his city but
+also to take some of his men to attack Africa [see Glossary],
+and before long the siege of Syracuse was lifted, and the
+Carthaginians, at the end of their tether, were compelled to
+come to terms with Agathocles, leaving Sicily to him and
+settling for the possession of Africa.
+
+If you study the actions and the career of this man, you’ll
+see little if anything that could be attributed to fortuna: he
+became a prince, as we have just seen, not through anyone’s
+favour but by steadily rising in the military profession, each
+promotion involving countless difﬁculties and dangers; and
+once he had his principality he held onto it, boldly, through
+many hostilities and dangers. ·And you won’t see anything
+you could attribute to virtù either, for· it can’t be called virtù
+to kill one’s fellow-citizens, to deceive friends, to be without
+faith or mercy or religion; such methods may bring power
+but won’t bring glory.
+Machiavelli’s next sentence: Perché, se si considerassi la
+virtù di Agatocle nello intrare e nello uscire de’ periculi, e
+la grandezza dello animo suo nel sopportare e superare le
+cose avverse, non si vede perché elli abbia ad essere iudicato
+inferiore a qualunque eccellentissimo capitano.
+That literally means: Because if we consider Agathocles’ virtù
+in confronting and surviving dangers, and his courage in
+enduring and overcoming hardships, there’s no apparent
+reason for judging him to be inferior to the most successful
+military leaders.
+What Machiavelli may have meant: As for Agathocles’ ability
+to confront and survive dangers, and his courage in enduring
+and overcoming hardships—if these are considered as virtù
+
+then there’s no reason not to admire him as much as the
+most successful military leaders.
+But his barbarous cruelty and inhumanity with inﬁnite
+wickedness do not permit him to be celebrated among the
+most excellent men ·and therefore it isn’t right to count
+his striking attributes as virtù. So, summing up·, what he
+achieved can’t be attributed either to fortuna or to virtù.
+
+(2) In our times, during the papacy of Alexander VI,
+Oliverotto da Fermo, having been left an orphan many years
+before, was brought up by his maternal uncle Giovanni
+Fogliani; and when still quite young he was sent to serve
+as a soldier under Paolo Vitelli, so that he could get some
+training that would enable him to have a successful military
+career. After Paolo died, he served under Paolo’s brother
+Vitellozzo, and before long his resourcefulness and strength
+of body and mind made him Vitellozzo’s top ofﬁcer. But
+he had no enthusiasm for serving along with others ·and
+therefore under someone else’s command·; so he decided to
+seize Fermo, with Vitellozzo’s support and help from some
+citizens of Fermo to whom the slavery of their country was
+dearer than its freedom [see Glossary]. He wrote to ·his uncle·
+Giovanni Fogliani, to the following effect:
+
+Having been away from home for many years, he
+wanted to visit his uncle and his city, and to have a
+look at the land his father had left him. He hadn’t
+worked to acquire anything except honour, ·and so
+couldn’t return home with an ostentatious display of
+wealth·. But he wanted to return in style, so that
+the citizens should see he hadn’t been wasting his
+time in the military; so he would be accompanied by a
+hundred of his friends and servants, all on horseback;
+and he asked Giovanni to have the Fermians receive
+him with a suitable ceremony—to honour not only
+himself but also his uncle and guardian Giovanni.
+
+18
+
+The Prince
+
+Niccolò Machiavelli
+
+8: Principality obtained through wickedness
+
+Giovanni ensured that his nephew received every courtesy.
+He caused him to be ceremoniously received by the Fermians,
+and lodged him in his own house. After some days there,
+making the needed arrangements for his wicked plan, Oliv-
+erotto laid on a grand banquet to which he invited Giovanni
+Fogliani and the top men of Fermo. When the eating was
+over, and all the other entertainments that are usual in such
+banquets were ﬁnished, Oliverotto cunningly began some
+solemn talk about the greatness of Pope Alexander and his
+son Cesare, and of their enterprises; Giovanni and others
+joined in the conversation, but Oliverotto suddenly stood
+up and said that such matters should be discussed in a
+more private place; and he went into another room, with
+Giovanni and the other citizens following him. No sooner
+were they seated than soldiers emerged from hiding-places
+and slaughtered them all, Giovanni included. After this mas-
+sacre Oliverotto ·and his followers· mounted on horseback
+and sped through the town to the palace of the governor;
+they laid siege to the palace, so frightening the governor that
+he was forced to obey him and form a government of which
+he (Oliverotto) made himself the prince. Having killed all the
+dissentients who might hit back at him, he strengthened his
+position with new rules and regulations governing civil and
+military matters; so that in his one year as prince in Fermo
+he not only made himself secure within the city but also
+came to be feared by all his neighbours. He would have been
+as difﬁcult to destroy as Agathocles was if he hadn’t—as I
+reported earlier [page 14]—allowed himself to be deceived by
+Cesare Borgia, who netted him along with the Orsini and
+Vitelli at Sinigalia, where one year after the massacre, he
+was strangled, together with Vitellozzo, whom he had made
+his leader in virtù and wickedness.
+
+Some may wonder how a man like Agathocles, after
+
+countless treacheries and cruelties, could live for years
+secure in his country, and defend himself from external
+enemies, and never be conspired against by his own citizens;
+seeing that many others who have also used cruelty haven’t
+been able to hold onto their ruling positions in peacetime, let
+alone in the insecure times of war. I believe that it depends
+on whether cruelty is employed well or badly. (1) Cruel acts
+are used well (if we can apply ‘well’ to wicked acts) if they are
+needed for political security and are all committed at a single
+stroke and then discontinued or turned into something that
+is to the advantage of the subjects. (2) Cruel acts are badly
+used when, even if there are few of them at the outset, their
+number grows through time. Those who practise (1) the ﬁrst
+system may be able to improve somewhat their standing in
+the eyes of God and men, as Agathocles did. Those who
+follow (2) the other can’t possibly maintain themselves.
+
+So someone who is seizing a state should think hard
+about all the injuries he’ll have to inﬂict, and get them all
+over with at the outset, rather than having cruelty as a
+daily occurrence. By stopping cruelty very soon, the usurper
+will be able to reassure people and win them over to his
+side by generosity. Someone who doesn’t proceed in this
+way—whether from fear or on bad advice—will always have
+to have a knife in his hand; and he won’t be able to rely
+on his subjects, who will be alienated by his continued and
+repeated injuries. . . .
+
+Above all things, a prince ought to relate to his people
+in such a way that nothing that happens, good or bad, will
+make him change his course. In troubled times you won’t be
+able to ﬁx the trouble by moving towards greater harshness,
+because it will be too late for that; nor will it help for you to
+move in the direction of greater mildness, because that will
+seem to have been compelled, and you’ll get no credit for it.
+
+19
+
+The Prince
+
+Niccolò Machiavelli
+
+9: Civil principality
+
+Chapter 9
+
+Civil principality
+
+·At the start of chapter 8 I spoke of two ways of becoming a
+prince that aren’t entirely matters of fortuna or of virtù. And·
+now I come to the second of them: a citizen becomes the
+prince of his country not by wickedness or any intolerable
+violence, but by the favour of his fellow citizens. We can
+call this ‘civil principality’. [Machiavelli adds in parentheses
+that what you need to become a civil prince is just una
+astuzia fortunata = a fortunate or happy or lucky cleverness
+or astuteness. What you don’t need, he says, is o tutta virtù
+o tutta fortuna, a phrase that has given trouble to translators.
+Here are four published translations of it:
+•nor is genius or fortune altogether necessary to attain to it.
+•the prince doesn’t have to depend wholly on skill or Fortune.
+•you don’t have to be wholly brilliant or extraordinarily lucky.
+•it is not necessary to have only ability or only good luck.
+Take your pick! Machiavelli continues:] Now, this kind of
+principality—·this way of becoming a prince·—is obtained
+with the support of the common people or with the support
+of the nobles. Every city-state has •common people who
+don’t want to be ruled or ordered around by the nobles, and
+•nobles who do want to rule and order around the common
+people; and the conﬂict between these two opposite political
+drives results, in each city, in one of three things: a ·civil·
+principality, freedom [see Glossary], or ungoverned chaos.
+
+Whether a civil principality is created by the people or
+by the nobles depends on which group has the opportunity.
+When the nobles see that they can’t resist popular pressure,
+they
+
+•select one of their number,
+•praise him to the skies, and
+•make him a prince;
+
+hoping to be able, under his shadow, to get what they want.
+When the people ﬁnd that they can’t resist the nobles, they
+
+•select one of their number,
+•praise him to the skies, and
+•make him a prince;
+
+hoping that his authority will be a defence for them. Someone
+who becomes prince with the help of the nobles will ﬁnd it
+hard to maintain his position because he’ll be surrounded by
+men who regard themselves as his equals, which will inhibit
+him in giving orders and managing affairs. It is easier for a
+prince who got there with the help of popular favour: he’ll
+be able to exercise his principality single-handed, with few if
+any people unwilling to obey him.
+
+Furthermore, a prince can’t satisfy the nobles without
+acting wrongly and harming others, because what the nobles
+want is to oppress the people; whereas he can satisfy the
+people without harming anyone, because their desires are
+more honourable than those of the nobles—all the people
+want is not to be oppressed. Also, a prince can’t secure
+himself against a hostile people, because there are too many
+of them, whereas he can secure himself from the nobles
+because there aren’t many of them. ·I should add a few words
+explaining what the content is of ‘secure himself against. . . ’,
+i.e. what the threats are from those two directions·. The
+worst that a prince can expect if the people turn hostile
+people is that they will abandon him; but if the nobles turn
+
+20
+
+The Prince
+
+Niccolò Machiavelli
+
+9: Civil principality
+
+hostile he has to fear not only that they will •abandon him
+but also that they will •attack him. ·The nobles are more
+likely to attack than the people are, because· they look ahead
+further and more intelligently than the people do, and will
+always act •early so as to protect themselves from dangers
+•further down the line, and so as to obtain favours from
+whomever they expect to win. ·In one respect, though, the
+people are more of a threat than the nobles, namely·: The
+prince has to live always with the same people, but he doesn’t
+have to have always the same nobles, because he can make
+and unmake nobles every day, giving or taking away honours
+at will.
+
+I’ll try to set all this out more clearly. The ﬁrst question
+that you, ·as prince·, ought to ask about any noble is: Does
+he behave in a way that ties •his success in everything to
+•yours? If he does, and isn’t greedy, he should be honoured
+and loved. As for those who don’t tie their success to yours,
+there are two cases to consider. (1) The reason why a given
+noble doesn’t link his success with yours may be that he
+is feeble and a coward. This is a man you should make
+use of, especially if he has good advice to offer.
+In times
+of prosperity he will bring you honour, and when things go
+badly you won’t have fear anything from him. (2) A noble
+who doesn’t commit himself to you because he has ambitious
+plans of his own shows that he is giving more thought to
+himself than to you; and a prince ought to keep a watchful
+eye on this man, fearing him as though he were an open
+enemy, because in difﬁcult times that’s just what he will be.
+Someone who becomes a prince through popular favour,
+then, ought to keep the people friendly towards him, and
+this isn’t difﬁcult because all they ask of him is that he
+not oppress them. But someone who becomes a prince
+through the favour of the nobles against the people’s wishes
+should make it his ﬁrst priority to win the people over to
+
+himself. And he can easily do this, by taking them under
+his protection. When men are well treated by someone, the
+loyalty they’ll have towards their benefactor will be especially
+great if they had expected him to treat them badly. . . . The
+prince can win their affections in many ways, but I shan’t
+go into those because they are too various, depending on
+circumstances, to be brought under ﬁxed rules. The bottom
+line is simply this: a prince must have the people friendly
+towards him; otherwise he has no security in difﬁcult times.
+Nabis, prince of the Spartans, successfully defended his
+country and his government against an attack by all Greece,
+and by a victorious Roman army; to overcome this peril he
+had to make himself secure against a few ·of his subjects·,
+but a mere few wouldn’t have been sufﬁcient if the people
+had been hostile to him. Don’t challenge what I am saying
+here by producing the trite proverb that ‘He who builds on
+the people builds on mud’, for this is ·not unrestrictedly
+true. The proverb is· true when a private citizen builds
+his power on that foundation, persuading himself that the
+people will free him when he is oppressed by his enemies or
+by the magistrates; that would-be prince may very well be
+disappointed by the outcome, as were the Gracchi in Rome
+and Giorgio Scali in Florence. But if it’s a prince who has
+established himself on popular favour—a prince who
+
+•knows how to lead,
+•is brave,
+•keeps his head in a crisis,
+•takes the right precautions, and
+•by his own resolution and energy keeps the whole
+people encouraged
+
+—he won’t be disappointed; it will turn out that he laid good
+foundations ·for his power·.
+
+This kind of prince is most at risk when he is passing
+·Let us look at why
+
+from •civil to •absolute government.
+
+21
+
+The Prince
+
+Niccolò Machiavelli
+
+10: Measuring the strength of principalities
+
+this is so·. The prince in question rules either personally
+or through magistrates.
+If through magistrates, that is
+a source of weakness and insecurity in his government,
+because it rests entirely on the goodwill of the citizens who
+have been raised to the magistracy, and who can, especially
+in troubled times, easily destroy the government through
+intrigue or open deﬁance. And at such times the prince won’t
+be able to exercise absolute authority because his subjects,
+accustomed as they are to getting orders from magistrates,
+aren’t going to start taking orders from him in a time of
+crisis.
+
+Also, at such times there will always be a scarcity of men
+the prince can trust. He can’t rely on what he sees when
+things are quiet and the citizens need the government. At
+
+such times
+
+•everyone comes running,
+•everyone promises ·to do what he wants·,
+•everyone wants to die for him (when there’s no imme-
+diate prospect of death).
+
+But in troubled times, when the government needs the
+citizens, he ﬁnds that very few show up. ·Mightn’t the prince
+at least try relying on the citizens’ loyalty?· That would be a
+risky experiment, made all the more dangerous by the fact
+that it can be tried only once. So a shrewd prince ought to
+handle things in such a way that his citizens will always, in
+all circumstances, need the government and need him; then
+he will always ﬁnd them loyal.
+
+How to measure the strength of a principality
+
+Chapter 10
+
+In examining the character of ·any one of· these principalities,
+we have to face the question: Does this prince (1) have
+enough power to be able to rely on his own resources in time
+of need, or does he (2) have to get help from others? Let me
+be clear about the line I am drawing. It is between
+
+(1) the prince who has enough men or money to be able
+to raise a sufﬁcient army to join battle against any
+attacker, and
+
+(2) the prince who can’t show himself against the enemy
+in the ﬁeld, and has to shelter behind the walls of his
+city, ·waiting for help to come·.
+
+I have discussed (1) ·in chapter 6· and will return to it
+·in chapters 12–14·. All I can say about (2) is to advise
+such princes to provision and fortify their •cities, and not
+to defend their •rural areas. If a prince has fortiﬁed his city
+well, and has managed his subjects concerns in the way I
+have described and will return to later, others will be very
+cautious about attacking him. Men are never enthusiastic
+about enterprises that they can see will be difﬁcult, and it
+will be seen to be difﬁcult to attack a ruler who has his city
+well fortiﬁed and isn’t hated by his people.
+
+22
+
+The Prince
+
+Niccolò Machiavelli
+
+10: Measuring the strength of principalities
+
+The cities of Germany are absolutely independent [liberis-
+sime]; they have little rural territory; they obey the emperor
+when it suits them to; and they aren’t afraid of the emperor
+or of any of their neighbours. That’s because they are so
+well fortiﬁed that everyone thinks it would be tedious and
+difﬁcult to take them: they all have good moats and walls,
+enough artillery, and public depots with enough food, drink,
+and fuel to last a year. Also, to support the people without
+public expenditure ·on hand-outs·, they have a stock of raw
+materials that will provide a year’s work in trades that are
+the city’s life-blood and ·thus· a year’s wages for the workers
+in them. They also have respect for •military exercises, and
+have many rules to make sure that •they are held.
+
+Thus, a prince who has a strong city and hasn’t made
+himself hated won’t be attacked; anyone who did attack him
+would be driven off, humiliated, because this world is so
+changeable that it’s almost impossible to keep an army idle,
+besieging a city, for a whole year. Someone may object:
+
+If the people have property outside the city, and see it
+burnt, they won’t remain patient; the long siege and
+self-interest will make them forget their prince.
+
+I reply that a strong and energetic prince will overcome all
+such difﬁculties by giving his subjects hope that the trouble
+will soon be over, scaring them with tales of the enemy’s
+cruelty, and moving nimbly to protect himself from those of
+his subjects who seem to him to be too bold.
+
+Also, as the enemy approach the city they will, naturally,
+burn and ruin the countryside; this will happen at a time
+when the spirits of the people are still high and they are
+determined to resist. This should actually encourage the
+prince, because a few days later, when spirits have cooled,
+the damage is already done, the bad things have happened,
+and there’s no remedy for them; so the people will be all the
+more ready to support their prince, because he seems to be
+under obligations to them now that their houses have been
+burnt and their possessions ruined in his defence. ·They will
+support him because he is obliged to them? Yes·, because it’s
+human nature to be bound by the beneﬁts one gives as much
+as by those one receives. All things considered, therefore,
+it won’t be hard for a wise prince to keep the minds of his
+citizens steadfast throughout a siege, as long as they have
+food and weapons.
+
+23
+
+The Prince
+
+Niccolò Machiavelli
+
+11: Ecclesiastical principalities
+
+Chapter 11
+
+Ecclesiastical principalities
+
+·Up to here I have been discussing kinds of state and ways
+of become a prince. I am nearly ﬁnished with that whole
+topic·. All that is left for me to discuss are ecclesiastical
+principalities—·church states·. The difﬁculties that occur
+in relation to these concern what happens on the way to
+getting possession, because once such a principality has
+been acquired, whether by virtù or by fortuna, it can be held
+onto without either. That’s because church states are backed
+by ancient religious institutions that are so powerful and
+of such a character that their princes can stay in power no
+matter how they behave and live. These are the only princes
+who have states that they don’t defend, and subjects whom
+they don’t rule; and the states, although unguarded, are not
+taken from them, and the subjects, don’t mind not being
+ruled and don’t want to alienate themselves and have no way
+of doing so. These are the only principalities that are secure
+and happy. But they’re upheld by ·divine· powers to which
+the human mind can’t reach, so I shan’t say anything more
+about them. They are raised up and maintained by God, and
+it would be presumptuous and rash to discuss them.
+
+·Except for one matter·. Someone may want to ask:
+
+How does it come about that the Church has so greatly
+increased its temporal [see Glossary] power? Before the
+papacy of Alexander VI the Italian rulers (not only of
+the great states, but every baron and lord, however
+minor) regarded the ·Church’s· temporal power as
+almost negligible; but now a king of France trembles
+before it, and it has been able to drive him from Italy
+and to ruin the Venetians. What happened?
+
+24
+
+Though the answer is well known, it may be worthwhile for
+us to remind ourselves of it.
+
+Before King Charles VIII of France moved into Italy, this
+
+country was dominated by
+
+•the popes,
+•the Venetians,
+•the King of Naples,
+•the Duke of Milan, and
+•the Florentines.
+
+Each of these powers had two main concerns: (i) that no
+foreign army should enter Italy, and (ii) none of the other
+four should seize more territory. Those about whom there
+was the most anxiety were the popes and the Venetians. The
+Venetians could be held back only by the other three working
+together. . . .; and to keep down the popes the others made
+use of the barons of Rome. They were split into two factions,
+the Orsinis and the Colonnas, who were always on the brink
+of outright ﬁghting; so there they were, weapons at the ready,
+under the eyes of the Pope, and this kept the papacy weak
+and indecisive. . . . The brevity of each individual papacy
+contributed to this. Popes have on average reigned for ten
+years, and that is hardly enough for a pope to pull down
+one of the factions; and if, for example, one pope came near
+to destroying the Colonnas, he would be succeeded by one
+who was hostile to the Orsinis; that successor would pull the
+Colonnas up again, but wouldn’t have enough time to ruin
+the Orsinis. That’s why the popes’ temporal powers weren’t
+given much respect in Italy.
+
+The Prince
+
+Niccolò Machiavelli
+
+11: Ecclesiastical principalities
+
+Then came Pope Alexander VI, who more than any previ-
+ous pope showed what a pope could do with money and arms.
+Using Duke Valentino—·Cesare Borgia·—and exploiting the
+opportunity provided by the French invasion of Italy, he did
+all the things that I mentioned ·in chapter 7· when discussing
+the duke’s actions. His aim was to build up the duke, not the
+Church, but his actions did make the Church more powerful;
+and that increased power was the legacy that was left to the
+Church after Alexander’s death and the downfall of his son.
+After Alexander there was Pope Julius II, who found the
+Church strong: it had control of all of Romagna, and the
+Roman barons and their factions had been wiped out by
+Alexander’s severity. Julius also found the way open to a
+way for the Church to accumulate money—a way that had
+never been followed before Alexander VI. Julius didn’t just
+follow these policies; he improved upon them. He planned
+to capture Bologna, to squelch the Venetians, and to chase
+the French out of Italy. He succeeded in all of this; and
+
+what makes this especially creditable is that he did it to
+strengthen the Church and not to beneﬁt any private person,
+·as Alexander sought to beneﬁt his son·. He also kept the
+Orsini and Colonna factions within the bounds in which he
+found them; and although a few of their leaders were poised
+to make trouble, two things held them back: •the greatness
+of the Church, with which Julius terriﬁed them; and •their
+not having their own cardinals. When these factions have
+their cardinals they don’t remain quiet for long, because
+cardinals take sides, both inside Rome and out of it, and
+the barons are compelled to support them.
+In this way
+the ambitions of prelates generate disorders and tumults
+among the barons. For these reasons his holiness Pope Leo
+X—·formerly the Cardinal de’ Medici·—found the papacy in a
+very strong condition, and it is to be hoped that where others
+made it great through force, he will make it even greater
+and more venerated through his goodness and his countless
+other virtùs.
+
+25
+
+
